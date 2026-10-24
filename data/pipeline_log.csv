@@ -1,0 +1,11 @@
+race,current_model_mae_on_race,drift_detected,deployed_version,current_model_mae_on_validation,candidate_mae_on_validation,candidate_version,action,candidate_file
+2021 Monza,10.622876731601748,True,0,4.824666105633796,2.5235297816901294,1.0,PROMOTED,models/model_v1.joblib
+2021 Silverstone,0.7487777388149918,False,1,,,,NO ACTION (no drift),
+2022 Bahrain,2.70197199300699,True,1,2.5235297816901294,2.736192246478888,2.0,REJECTED,models/model_v2.joblib
+2022 Monza,0.8057444866666638,False,1,,,,NO ACTION (no drift),
+2022 Silverstone,1.1031631220657128,False,1,,,,NO ACTION (no drift),
+2023 Bahrain,2.2708187345331816,True,1,2.5235297816901294,2.8363919507042157,3.0,REJECTED,models/model_v3.joblib
+2023 Monza,0.7369846184510267,False,1,,,,NO ACTION (no drift),
+2023 Silverstone,1.2175349688279316,False,1,,,,NO ACTION (no drift),
+2024 Bahrain,0.7327348608349762,False,1,,,,NO ACTION (no drift),
+2024 Monza,2.266680846817692,True,1,2.5235297816901294,2.4184247957746585,4.0,PROMOTED,models/model_v4.joblib

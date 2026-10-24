@@ -1,0 +1,879 @@
+Driver,Team,LapNumber,LapTime,Stint,Compound,TyreLife,TrackStatus,IsAccurate,PitInTime,PitOutTime,LapTimeSeconds
+VER,Red Bull Racing,2.0,0 days 00:01:26.163000,1.0,MEDIUM,2.0,1,True,,,86.163
+VER,Red Bull Racing,3.0,0 days 00:01:25.702000,1.0,MEDIUM,3.0,1,True,,,85.702
+VER,Red Bull Racing,4.0,0 days 00:01:26.050000,1.0,MEDIUM,4.0,1,True,,,86.05
+VER,Red Bull Racing,5.0,0 days 00:01:26.176000,1.0,MEDIUM,5.0,1,True,,,86.176
+VER,Red Bull Racing,6.0,0 days 00:01:26.837000,1.0,MEDIUM,6.0,1,True,,,86.837
+VER,Red Bull Racing,7.0,0 days 00:01:26.368000,1.0,MEDIUM,7.0,1,True,,,86.368
+VER,Red Bull Racing,8.0,0 days 00:01:25.990000,1.0,MEDIUM,8.0,1,True,,,85.99
+VER,Red Bull Racing,9.0,0 days 00:01:26.605000,1.0,MEDIUM,9.0,1,True,,,86.605
+VER,Red Bull Racing,10.0,0 days 00:01:26.603000,1.0,MEDIUM,10.0,1,True,,,86.603
+VER,Red Bull Racing,11.0,0 days 00:01:26.643000,1.0,MEDIUM,11.0,1,True,,,86.643
+VER,Red Bull Racing,12.0,0 days 00:01:26.442000,1.0,MEDIUM,12.0,1,True,,,86.442
+VER,Red Bull Racing,13.0,0 days 00:01:26.666000,1.0,MEDIUM,13.0,1,True,,,86.666
+VER,Red Bull Racing,14.0,0 days 00:01:27.028000,1.0,MEDIUM,14.0,1,True,,,87.028
+VER,Red Bull Racing,15.0,0 days 00:01:26.782000,1.0,MEDIUM,15.0,1,True,,,86.782
+VER,Red Bull Racing,16.0,0 days 00:01:26.718000,1.0,MEDIUM,16.0,1,True,,,86.718
+VER,Red Bull Racing,17.0,0 days 00:01:26.733000,1.0,MEDIUM,17.0,1,True,,,86.733
+VER,Red Bull Racing,18.0,0 days 00:01:26.273000,1.0,MEDIUM,18.0,1,True,,,86.273
+VER,Red Bull Racing,19.0,0 days 00:01:26.438000,1.0,MEDIUM,19.0,1,True,,,86.438
+VER,Red Bull Racing,22.0,0 days 00:01:25.885000,2.0,HARD,2.0,1,True,,,85.885
+VER,Red Bull Racing,23.0,0 days 00:01:26.159000,2.0,HARD,3.0,1,True,,,86.159
+VER,Red Bull Racing,24.0,0 days 00:01:26.327000,2.0,HARD,4.0,1,True,,,86.327
+VER,Red Bull Racing,25.0,0 days 00:01:25.914000,2.0,HARD,5.0,1,True,,,85.914
+VER,Red Bull Racing,26.0,0 days 00:01:25.786000,2.0,HARD,6.0,1,True,,,85.786
+VER,Red Bull Racing,27.0,0 days 00:01:25.501000,2.0,HARD,7.0,1,True,,,85.501
+VER,Red Bull Racing,28.0,0 days 00:01:25.434000,2.0,HARD,8.0,1,True,,,85.434
+VER,Red Bull Racing,29.0,0 days 00:01:25.471000,2.0,HARD,9.0,1,True,,,85.471
+VER,Red Bull Racing,30.0,0 days 00:01:25.398000,2.0,HARD,10.0,1,True,,,85.398
+VER,Red Bull Racing,31.0,0 days 00:01:25.502000,2.0,HARD,11.0,1,True,,,85.502
+VER,Red Bull Racing,32.0,0 days 00:01:25.410000,2.0,HARD,12.0,1,True,,,85.41
+VER,Red Bull Racing,33.0,0 days 00:01:25.240000,2.0,HARD,13.0,1,True,,,85.24
+VER,Red Bull Racing,34.0,0 days 00:01:25.683000,2.0,HARD,14.0,1,True,,,85.683
+VER,Red Bull Racing,35.0,0 days 00:01:25.815000,2.0,HARD,15.0,1,True,,,85.815
+VER,Red Bull Racing,36.0,0 days 00:01:25.598000,2.0,HARD,16.0,1,True,,,85.598
+VER,Red Bull Racing,37.0,0 days 00:01:25.683000,2.0,HARD,17.0,1,True,,,85.683
+VER,Red Bull Racing,38.0,0 days 00:01:25.585000,2.0,HARD,18.0,1,True,,,85.585
+VER,Red Bull Racing,39.0,0 days 00:01:25.486000,2.0,HARD,19.0,1,True,,,85.486
+VER,Red Bull Racing,40.0,0 days 00:01:25.901000,2.0,HARD,20.0,1,True,,,85.901
+VER,Red Bull Racing,41.0,0 days 00:01:25.779000,2.0,HARD,21.0,1,True,,,85.779
+VER,Red Bull Racing,42.0,0 days 00:01:25.912000,2.0,HARD,22.0,1,True,,,85.912
+VER,Red Bull Racing,43.0,0 days 00:01:25.994000,2.0,HARD,23.0,1,True,,,85.994
+VER,Red Bull Racing,44.0,0 days 00:01:25.751000,2.0,HARD,24.0,1,True,,,85.751
+VER,Red Bull Racing,45.0,0 days 00:01:25.916000,2.0,HARD,25.0,1,True,,,85.916
+VER,Red Bull Racing,46.0,0 days 00:01:26.185000,2.0,HARD,26.0,1,True,,,86.185
+VER,Red Bull Racing,47.0,0 days 00:01:26.137000,2.0,HARD,27.0,1,True,,,86.137
+VER,Red Bull Racing,48.0,0 days 00:01:27.235000,2.0,HARD,28.0,1,True,,,87.235
+VER,Red Bull Racing,49.0,0 days 00:01:27.907000,2.0,HARD,29.0,1,True,,,87.907
+VER,Red Bull Racing,50.0,0 days 00:01:28.393000,2.0,HARD,30.0,1,True,,,88.393
+VER,Red Bull Racing,51.0,0 days 00:01:27.525000,2.0,HARD,31.0,1,True,,,87.525
+GAS,Alpine,2.0,0 days 00:01:28.696000,1.0,MEDIUM,2.0,1,True,,,88.696
+GAS,Alpine,3.0,0 days 00:01:27.916000,1.0,MEDIUM,3.0,1,True,,,87.916
+GAS,Alpine,4.0,0 days 00:01:27.472000,1.0,MEDIUM,4.0,1,True,,,87.472
+GAS,Alpine,5.0,0 days 00:01:27.694000,1.0,MEDIUM,5.0,1,True,,,87.694
+GAS,Alpine,6.0,0 days 00:01:27.324000,1.0,MEDIUM,6.0,1,True,,,87.324
+GAS,Alpine,7.0,0 days 00:01:27.210000,1.0,MEDIUM,7.0,1,True,,,87.21
+GAS,Alpine,8.0,0 days 00:01:27.240000,1.0,MEDIUM,8.0,1,True,,,87.24
+GAS,Alpine,9.0,0 days 00:01:27.366000,1.0,MEDIUM,9.0,1,True,,,87.366
+GAS,Alpine,12.0,0 days 00:01:27.431000,2.0,HARD,5.0,1,True,,,87.431
+GAS,Alpine,13.0,0 days 00:01:27.368000,2.0,HARD,6.0,1,True,,,87.368
+GAS,Alpine,14.0,0 days 00:01:27.348000,2.0,HARD,7.0,1,True,,,87.348
+GAS,Alpine,15.0,0 days 00:01:27.363000,2.0,HARD,8.0,1,True,,,87.363
+GAS,Alpine,16.0,0 days 00:01:27.088000,2.0,HARD,9.0,1,True,,,87.088
+GAS,Alpine,17.0,0 days 00:01:27.076000,2.0,HARD,10.0,1,True,,,87.076
+GAS,Alpine,18.0,0 days 00:01:27.053000,2.0,HARD,11.0,1,True,,,87.053
+GAS,Alpine,19.0,0 days 00:01:27.136000,2.0,HARD,12.0,1,True,,,87.136
+GAS,Alpine,20.0,0 days 00:01:27.035000,2.0,HARD,13.0,1,True,,,87.035
+GAS,Alpine,21.0,0 days 00:01:27.706000,2.0,HARD,14.0,1,True,,,87.706
+GAS,Alpine,22.0,0 days 00:01:27.219000,2.0,HARD,15.0,1,True,,,87.219
+GAS,Alpine,23.0,0 days 00:01:27.454000,2.0,HARD,16.0,1,True,,,87.454
+GAS,Alpine,24.0,0 days 00:01:27.060000,2.0,HARD,17.0,1,True,,,87.06
+GAS,Alpine,25.0,0 days 00:01:27.223000,2.0,HARD,18.0,1,True,,,87.223
+GAS,Alpine,26.0,0 days 00:01:27.590000,2.0,HARD,19.0,1,True,,,87.59
+GAS,Alpine,27.0,0 days 00:01:27.189000,2.0,HARD,20.0,1,True,,,87.189
+GAS,Alpine,28.0,0 days 00:01:27.521000,2.0,HARD,21.0,1,True,,,87.521
+GAS,Alpine,29.0,0 days 00:01:27.383000,2.0,HARD,22.0,1,True,,,87.383
+GAS,Alpine,30.0,0 days 00:01:27.658000,2.0,HARD,23.0,1,True,,,87.658
+GAS,Alpine,33.0,0 days 00:01:26.439000,3.0,MEDIUM,2.0,1,True,,,86.439
+GAS,Alpine,34.0,0 days 00:01:26.877000,3.0,MEDIUM,3.0,1,True,,,86.877
+GAS,Alpine,35.0,0 days 00:01:26.903000,3.0,MEDIUM,4.0,1,True,,,86.903
+GAS,Alpine,36.0,0 days 00:01:26.797000,3.0,MEDIUM,5.0,1,True,,,86.797
+GAS,Alpine,37.0,0 days 00:01:26.499000,3.0,MEDIUM,6.0,1,True,,,86.499
+GAS,Alpine,38.0,0 days 00:01:26.357000,3.0,MEDIUM,7.0,1,True,,,86.357
+GAS,Alpine,39.0,0 days 00:01:26.736000,3.0,MEDIUM,8.0,1,True,,,86.736
+GAS,Alpine,40.0,0 days 00:01:26.548000,3.0,MEDIUM,9.0,1,True,,,86.548
+GAS,Alpine,41.0,0 days 00:01:26.346000,3.0,MEDIUM,10.0,1,True,,,86.346
+GAS,Alpine,42.0,0 days 00:01:26.425000,3.0,MEDIUM,11.0,1,True,,,86.425
+GAS,Alpine,43.0,0 days 00:01:25.921000,3.0,MEDIUM,12.0,1,True,,,85.921
+GAS,Alpine,44.0,0 days 00:01:25.758000,3.0,MEDIUM,13.0,1,True,,,85.758
+GAS,Alpine,45.0,0 days 00:01:26.297000,3.0,MEDIUM,14.0,1,True,,,86.297
+GAS,Alpine,46.0,0 days 00:01:26.292000,3.0,MEDIUM,15.0,1,True,,,86.292
+GAS,Alpine,47.0,0 days 00:01:26.144000,3.0,MEDIUM,16.0,1,True,,,86.144
+GAS,Alpine,48.0,0 days 00:01:26.288000,3.0,MEDIUM,17.0,1,True,,,86.288
+GAS,Alpine,49.0,0 days 00:01:27.913000,3.0,MEDIUM,18.0,1,True,,,87.913
+GAS,Alpine,50.0,0 days 00:01:27.375000,3.0,MEDIUM,19.0,1,True,,,87.375
+PER,Red Bull Racing,2.0,0 days 00:01:26.881000,1.0,MEDIUM,2.0,1,True,,,86.881
+PER,Red Bull Racing,3.0,0 days 00:01:26.143000,1.0,MEDIUM,3.0,1,True,,,86.143
+PER,Red Bull Racing,4.0,0 days 00:01:26.019000,1.0,MEDIUM,4.0,1,True,,,86.019
+PER,Red Bull Racing,5.0,0 days 00:01:26.354000,1.0,MEDIUM,5.0,1,True,,,86.354
+PER,Red Bull Racing,6.0,0 days 00:01:26.465000,1.0,MEDIUM,6.0,1,True,,,86.465
+PER,Red Bull Racing,7.0,0 days 00:01:26.333000,1.0,MEDIUM,7.0,1,True,,,86.333
+PER,Red Bull Racing,8.0,0 days 00:01:26.887000,1.0,MEDIUM,8.0,1,True,,,86.887
+PER,Red Bull Racing,9.0,0 days 00:01:26.564000,1.0,MEDIUM,9.0,1,True,,,86.564
+PER,Red Bull Racing,10.0,0 days 00:01:26.454000,1.0,MEDIUM,10.0,1,True,,,86.454
+PER,Red Bull Racing,11.0,0 days 00:01:27.245000,1.0,MEDIUM,11.0,1,True,,,87.245
+PER,Red Bull Racing,12.0,0 days 00:01:26.968000,1.0,MEDIUM,12.0,1,True,,,86.968
+PER,Red Bull Racing,13.0,0 days 00:01:27.014000,1.0,MEDIUM,13.0,1,True,,,87.014
+PER,Red Bull Racing,14.0,0 days 00:01:27.451000,1.0,MEDIUM,14.0,1,True,,,87.451
+PER,Red Bull Racing,15.0,0 days 00:01:26.779000,1.0,MEDIUM,15.0,1,True,,,86.779
+PER,Red Bull Racing,16.0,0 days 00:01:26.823000,1.0,MEDIUM,16.0,1,True,,,86.823
+PER,Red Bull Racing,17.0,0 days 00:01:27.011000,1.0,MEDIUM,17.0,1,True,,,87.011
+PER,Red Bull Racing,18.0,0 days 00:01:26.765000,1.0,MEDIUM,18.0,1,True,,,86.765
+PER,Red Bull Racing,19.0,0 days 00:01:26.669000,1.0,MEDIUM,19.0,1,True,,,86.669
+PER,Red Bull Racing,20.0,0 days 00:01:26.509000,1.0,MEDIUM,20.0,1,True,,,86.509
+PER,Red Bull Racing,23.0,0 days 00:01:25.564000,2.0,HARD,2.0,1,True,,,85.564
+PER,Red Bull Racing,24.0,0 days 00:01:25.759000,2.0,HARD,3.0,1,True,,,85.759
+PER,Red Bull Racing,25.0,0 days 00:01:26.005000,2.0,HARD,4.0,1,True,,,86.005
+PER,Red Bull Racing,26.0,0 days 00:01:25.884000,2.0,HARD,5.0,1,True,,,85.884
+PER,Red Bull Racing,27.0,0 days 00:01:26.456000,2.0,HARD,6.0,1,True,,,86.456
+PER,Red Bull Racing,28.0,0 days 00:01:25.584000,2.0,HARD,7.0,1,True,,,85.584
+PER,Red Bull Racing,29.0,0 days 00:01:25.606000,2.0,HARD,8.0,1,True,,,85.606
+PER,Red Bull Racing,30.0,0 days 00:01:25.757000,2.0,HARD,9.0,1,True,,,85.757
+PER,Red Bull Racing,31.0,0 days 00:01:26.415000,2.0,HARD,10.0,1,True,,,86.415
+PER,Red Bull Racing,32.0,0 days 00:01:25.880000,2.0,HARD,11.0,1,True,,,85.88
+PER,Red Bull Racing,33.0,0 days 00:01:26.020000,2.0,HARD,12.0,1,True,,,86.02
+PER,Red Bull Racing,34.0,0 days 00:01:25.948000,2.0,HARD,13.0,1,True,,,85.948
+PER,Red Bull Racing,35.0,0 days 00:01:25.651000,2.0,HARD,14.0,1,True,,,85.651
+PER,Red Bull Racing,36.0,0 days 00:01:25.627000,2.0,HARD,15.0,1,True,,,85.627
+PER,Red Bull Racing,37.0,0 days 00:01:25.757000,2.0,HARD,16.0,1,True,,,85.757
+PER,Red Bull Racing,38.0,0 days 00:01:25.584000,2.0,HARD,17.0,1,True,,,85.584
+PER,Red Bull Racing,39.0,0 days 00:01:25.522000,2.0,HARD,18.0,1,True,,,85.522
+PER,Red Bull Racing,40.0,0 days 00:01:25.626000,2.0,HARD,19.0,1,True,,,85.626
+PER,Red Bull Racing,41.0,0 days 00:01:26.719000,2.0,HARD,20.0,1,True,,,86.719
+PER,Red Bull Racing,42.0,0 days 00:01:26.539000,2.0,HARD,21.0,1,True,,,86.539
+PER,Red Bull Racing,43.0,0 days 00:01:26.624000,2.0,HARD,22.0,1,True,,,86.624
+PER,Red Bull Racing,44.0,0 days 00:01:26.329000,2.0,HARD,23.0,1,True,,,86.329
+PER,Red Bull Racing,45.0,0 days 00:01:26.573000,2.0,HARD,24.0,1,True,,,86.573
+PER,Red Bull Racing,46.0,0 days 00:01:25.598000,2.0,HARD,25.0,1,True,,,85.598
+PER,Red Bull Racing,47.0,0 days 00:01:26.476000,2.0,HARD,26.0,1,True,,,86.476
+PER,Red Bull Racing,48.0,0 days 00:01:26.108000,2.0,HARD,27.0,1,True,,,86.108
+PER,Red Bull Racing,49.0,0 days 00:01:26.006000,2.0,HARD,28.0,1,True,,,86.006
+PER,Red Bull Racing,50.0,0 days 00:01:26.385000,2.0,HARD,29.0,1,True,,,86.385
+PER,Red Bull Racing,51.0,0 days 00:01:25.903000,2.0,HARD,30.0,1,True,,,85.903
+ALO,Aston Martin,2.0,0 days 00:01:28.012000,1.0,MEDIUM,2.0,1,True,,,88.012
+ALO,Aston Martin,3.0,0 days 00:01:27.546000,1.0,MEDIUM,3.0,1,True,,,87.546
+ALO,Aston Martin,4.0,0 days 00:01:27.221000,1.0,MEDIUM,4.0,1,True,,,87.221
+ALO,Aston Martin,5.0,0 days 00:01:27.033000,1.0,MEDIUM,5.0,1,True,,,87.033
+ALO,Aston Martin,6.0,0 days 00:01:27.175000,1.0,MEDIUM,6.0,1,True,,,87.175
+ALO,Aston Martin,7.0,0 days 00:01:26.929000,1.0,MEDIUM,7.0,1,True,,,86.929
+ALO,Aston Martin,8.0,0 days 00:01:26.943000,1.0,MEDIUM,8.0,1,True,,,86.943
+ALO,Aston Martin,9.0,0 days 00:01:27.383000,1.0,MEDIUM,9.0,1,True,,,87.383
+ALO,Aston Martin,10.0,0 days 00:01:27.368000,1.0,MEDIUM,10.0,1,True,,,87.368
+ALO,Aston Martin,11.0,0 days 00:01:27.343000,1.0,MEDIUM,11.0,1,True,,,87.343
+ALO,Aston Martin,12.0,0 days 00:01:27.339000,1.0,MEDIUM,12.0,1,True,,,87.339
+ALO,Aston Martin,13.0,0 days 00:01:27.158000,1.0,MEDIUM,13.0,1,True,,,87.158
+ALO,Aston Martin,14.0,0 days 00:01:27.607000,1.0,MEDIUM,14.0,1,True,,,87.607
+ALO,Aston Martin,15.0,0 days 00:01:26.929000,1.0,MEDIUM,15.0,1,True,,,86.929
+ALO,Aston Martin,16.0,0 days 00:01:27.164000,1.0,MEDIUM,16.0,1,True,,,87.164
+ALO,Aston Martin,17.0,0 days 00:01:27.156000,1.0,MEDIUM,17.0,1,True,,,87.156
+ALO,Aston Martin,18.0,0 days 00:01:27.275000,1.0,MEDIUM,18.0,1,True,,,87.275
+ALO,Aston Martin,19.0,0 days 00:01:27.318000,1.0,MEDIUM,19.0,1,True,,,87.318
+ALO,Aston Martin,20.0,0 days 00:01:28.284000,1.0,MEDIUM,20.0,1,True,,,88.284
+ALO,Aston Martin,23.0,0 days 00:01:26.849000,2.0,HARD,5.0,1,True,,,86.849
+ALO,Aston Martin,24.0,0 days 00:01:26.949000,2.0,HARD,6.0,1,True,,,86.949
+ALO,Aston Martin,25.0,0 days 00:01:26.899000,2.0,HARD,7.0,1,True,,,86.899
+ALO,Aston Martin,26.0,0 days 00:01:26.792000,2.0,HARD,8.0,1,True,,,86.792
+ALO,Aston Martin,27.0,0 days 00:01:26.666000,2.0,HARD,9.0,1,True,,,86.666
+ALO,Aston Martin,28.0,0 days 00:01:26.723000,2.0,HARD,10.0,1,True,,,86.723
+ALO,Aston Martin,29.0,0 days 00:01:26.997000,2.0,HARD,11.0,1,True,,,86.997
+ALO,Aston Martin,30.0,0 days 00:01:26.915000,2.0,HARD,12.0,1,True,,,86.915
+ALO,Aston Martin,31.0,0 days 00:01:26.848000,2.0,HARD,13.0,1,True,,,86.848
+ALO,Aston Martin,32.0,0 days 00:01:26.747000,2.0,HARD,14.0,1,True,,,86.747
+ALO,Aston Martin,33.0,0 days 00:01:26.769000,2.0,HARD,15.0,1,True,,,86.769
+ALO,Aston Martin,34.0,0 days 00:01:26.563000,2.0,HARD,16.0,1,True,,,86.563
+ALO,Aston Martin,35.0,0 days 00:01:26.517000,2.0,HARD,17.0,1,True,,,86.517
+ALO,Aston Martin,36.0,0 days 00:01:26.457000,2.0,HARD,18.0,1,True,,,86.457
+ALO,Aston Martin,37.0,0 days 00:01:26.380000,2.0,HARD,19.0,1,True,,,86.38
+ALO,Aston Martin,38.0,0 days 00:01:26.574000,2.0,HARD,20.0,1,True,,,86.574
+ALO,Aston Martin,39.0,0 days 00:01:26.707000,2.0,HARD,21.0,1,True,,,86.707
+ALO,Aston Martin,40.0,0 days 00:01:26.610000,2.0,HARD,22.0,1,True,,,86.61
+ALO,Aston Martin,41.0,0 days 00:01:26.815000,2.0,HARD,23.0,1,True,,,86.815
+ALO,Aston Martin,42.0,0 days 00:01:26.403000,2.0,HARD,24.0,1,True,,,86.403
+ALO,Aston Martin,43.0,0 days 00:01:26.105000,2.0,HARD,25.0,1,True,,,86.105
+ALO,Aston Martin,44.0,0 days 00:01:26.155000,2.0,HARD,26.0,1,True,,,86.155
+ALO,Aston Martin,45.0,0 days 00:01:26.277000,2.0,HARD,27.0,1,True,,,86.277
+ALO,Aston Martin,46.0,0 days 00:01:26.453000,2.0,HARD,28.0,1,True,,,86.453
+ALO,Aston Martin,47.0,0 days 00:01:26.912000,2.0,HARD,29.0,1,True,,,86.912
+ALO,Aston Martin,48.0,0 days 00:01:27.183000,2.0,HARD,30.0,1,True,,,87.183
+ALO,Aston Martin,49.0,0 days 00:01:27.245000,2.0,HARD,31.0,1,True,,,87.245
+ALO,Aston Martin,50.0,0 days 00:01:27.360000,2.0,HARD,32.0,1,True,,,87.36
+ALO,Aston Martin,51.0,0 days 00:01:27.395000,2.0,HARD,33.0,1,True,,,87.395
+LEC,Ferrari,2.0,0 days 00:01:26.312000,1.0,MEDIUM,2.0,1,True,,,86.312
+LEC,Ferrari,3.0,0 days 00:01:25.719000,1.0,MEDIUM,3.0,1,True,,,85.719
+LEC,Ferrari,4.0,0 days 00:01:26.025000,1.0,MEDIUM,4.0,1,True,,,86.025
+LEC,Ferrari,5.0,0 days 00:01:26.266000,1.0,MEDIUM,5.0,1,True,,,86.266
+LEC,Ferrari,6.0,0 days 00:01:26.483000,1.0,MEDIUM,6.0,1,True,,,86.483
+LEC,Ferrari,7.0,0 days 00:01:26.473000,1.0,MEDIUM,7.0,1,True,,,86.473
+LEC,Ferrari,8.0,0 days 00:01:25.972000,1.0,MEDIUM,8.0,1,True,,,85.972
+LEC,Ferrari,9.0,0 days 00:01:26.678000,1.0,MEDIUM,9.0,1,True,,,86.678
+LEC,Ferrari,10.0,0 days 00:01:26.787000,1.0,MEDIUM,10.0,1,True,,,86.787
+LEC,Ferrari,11.0,0 days 00:01:26.838000,1.0,MEDIUM,11.0,1,True,,,86.838
+LEC,Ferrari,12.0,0 days 00:01:26.694000,1.0,MEDIUM,12.0,1,True,,,86.694
+LEC,Ferrari,13.0,0 days 00:01:26.557000,1.0,MEDIUM,13.0,1,True,,,86.557
+LEC,Ferrari,14.0,0 days 00:01:26.940000,1.0,MEDIUM,14.0,1,True,,,86.94
+LEC,Ferrari,15.0,0 days 00:01:27.314000,1.0,MEDIUM,15.0,1,True,,,87.314
+LEC,Ferrari,16.0,0 days 00:01:27.155000,1.0,MEDIUM,16.0,1,True,,,87.155
+LEC,Ferrari,17.0,0 days 00:01:27.670000,1.0,MEDIUM,17.0,1,True,,,87.67
+LEC,Ferrari,18.0,0 days 00:01:27.498000,1.0,MEDIUM,18.0,1,True,,,87.498
+LEC,Ferrari,19.0,0 days 00:01:27.702000,1.0,MEDIUM,19.0,1,True,,,87.702
+LEC,Ferrari,22.0,0 days 00:01:25.742000,2.0,HARD,2.0,1,True,,,85.742
+LEC,Ferrari,23.0,0 days 00:01:25.807000,2.0,HARD,3.0,1,True,,,85.807
+LEC,Ferrari,24.0,0 days 00:01:25.933000,2.0,HARD,4.0,1,True,,,85.933
+LEC,Ferrari,25.0,0 days 00:01:26.061000,2.0,HARD,5.0,1,True,,,86.061
+LEC,Ferrari,26.0,0 days 00:01:25.763000,2.0,HARD,6.0,1,True,,,85.763
+LEC,Ferrari,27.0,0 days 00:01:26.234000,2.0,HARD,7.0,1,True,,,86.234
+LEC,Ferrari,28.0,0 days 00:01:25.663000,2.0,HARD,8.0,1,True,,,85.663
+LEC,Ferrari,29.0,0 days 00:01:25.814000,2.0,HARD,9.0,1,True,,,85.814
+LEC,Ferrari,30.0,0 days 00:01:25.782000,2.0,HARD,10.0,1,True,,,85.782
+LEC,Ferrari,31.0,0 days 00:01:26.496000,2.0,HARD,11.0,1,True,,,86.496
+LEC,Ferrari,32.0,0 days 00:01:26.869000,2.0,HARD,12.0,1,True,,,86.869
+LEC,Ferrari,33.0,0 days 00:01:25.962000,2.0,HARD,13.0,1,True,,,85.962
+LEC,Ferrari,34.0,0 days 00:01:25.851000,2.0,HARD,14.0,1,True,,,85.851
+LEC,Ferrari,35.0,0 days 00:01:25.850000,2.0,HARD,15.0,1,True,,,85.85
+LEC,Ferrari,36.0,0 days 00:01:25.631000,2.0,HARD,16.0,1,True,,,85.631
+LEC,Ferrari,37.0,0 days 00:01:25.671000,2.0,HARD,17.0,1,True,,,85.671
+LEC,Ferrari,38.0,0 days 00:01:25.580000,2.0,HARD,18.0,1,True,,,85.58
+LEC,Ferrari,39.0,0 days 00:01:25.629000,2.0,HARD,19.0,1,True,,,85.629
+LEC,Ferrari,40.0,0 days 00:01:25.728000,2.0,HARD,20.0,1,True,,,85.728
+LEC,Ferrari,41.0,0 days 00:01:26.511000,2.0,HARD,21.0,1,True,,,86.511
+LEC,Ferrari,42.0,0 days 00:01:26.448000,2.0,HARD,22.0,1,True,,,86.448
+LEC,Ferrari,43.0,0 days 00:01:26.597000,2.0,HARD,23.0,1,True,,,86.597
+LEC,Ferrari,44.0,0 days 00:01:26.586000,2.0,HARD,24.0,1,True,,,86.586
+LEC,Ferrari,45.0,0 days 00:01:26.321000,2.0,HARD,25.0,1,True,,,86.321
+LEC,Ferrari,46.0,0 days 00:01:26.580000,2.0,HARD,26.0,1,True,,,86.58
+LEC,Ferrari,47.0,0 days 00:01:27.371000,2.0,HARD,27.0,1,True,,,87.371
+LEC,Ferrari,48.0,0 days 00:01:26.828000,2.0,HARD,28.0,1,True,,,86.828
+LEC,Ferrari,49.0,0 days 00:01:26.633000,2.0,HARD,29.0,1,True,,,86.633
+LEC,Ferrari,50.0,0 days 00:01:26.961000,2.0,HARD,30.0,1,True,,,86.961
+LEC,Ferrari,51.0,0 days 00:01:26.783000,2.0,HARD,31.0,1,True,,,86.783
+STR,Aston Martin,2.0,0 days 00:01:28.953000,1.0,MEDIUM,2.0,1,True,,,88.953
+STR,Aston Martin,3.0,0 days 00:01:28.614000,1.0,MEDIUM,3.0,1,True,,,88.614
+STR,Aston Martin,4.0,0 days 00:01:27.725000,1.0,MEDIUM,4.0,1,True,,,87.725
+STR,Aston Martin,5.0,0 days 00:01:27.574000,1.0,MEDIUM,5.0,1,True,,,87.574
+STR,Aston Martin,6.0,0 days 00:01:27.656000,1.0,MEDIUM,6.0,1,True,,,87.656
+STR,Aston Martin,7.0,0 days 00:01:27.100000,1.0,MEDIUM,7.0,1,True,,,87.1
+STR,Aston Martin,8.0,0 days 00:01:27.362000,1.0,MEDIUM,8.0,1,True,,,87.362
+STR,Aston Martin,9.0,0 days 00:01:27.312000,1.0,MEDIUM,9.0,1,True,,,87.312
+STR,Aston Martin,10.0,0 days 00:01:27.539000,1.0,MEDIUM,10.0,1,True,,,87.539
+STR,Aston Martin,11.0,0 days 00:01:27.369000,1.0,MEDIUM,11.0,1,True,,,87.369
+STR,Aston Martin,12.0,0 days 00:01:27.810000,1.0,MEDIUM,12.0,1,True,,,87.81
+STR,Aston Martin,13.0,0 days 00:01:28.222000,1.0,MEDIUM,13.0,1,True,,,88.222
+STR,Aston Martin,14.0,0 days 00:01:28.057000,1.0,MEDIUM,14.0,1,True,,,88.057
+STR,Aston Martin,15.0,0 days 00:01:28.179000,1.0,MEDIUM,15.0,1,True,,,88.179
+STR,Aston Martin,16.0,0 days 00:01:28.080000,1.0,MEDIUM,16.0,1,True,,,88.08
+STR,Aston Martin,17.0,0 days 00:01:27.909000,1.0,MEDIUM,17.0,1,True,,,87.909
+STR,Aston Martin,18.0,0 days 00:01:28.401000,1.0,MEDIUM,18.0,1,True,,,88.401
+STR,Aston Martin,19.0,0 days 00:01:28.050000,1.0,MEDIUM,19.0,1,True,,,88.05
+STR,Aston Martin,22.0,0 days 00:01:26.742000,2.0,HARD,6.0,1,True,,,86.742
+STR,Aston Martin,23.0,0 days 00:01:26.968000,2.0,HARD,7.0,1,True,,,86.968
+STR,Aston Martin,24.0,0 days 00:01:27.340000,2.0,HARD,8.0,1,True,,,87.34
+STR,Aston Martin,25.0,0 days 00:01:27.176000,2.0,HARD,9.0,1,True,,,87.176
+STR,Aston Martin,26.0,0 days 00:01:27.259000,2.0,HARD,10.0,1,True,,,87.259
+STR,Aston Martin,27.0,0 days 00:01:26.675000,2.0,HARD,11.0,1,True,,,86.675
+STR,Aston Martin,28.0,0 days 00:01:27.085000,2.0,HARD,12.0,1,True,,,87.085
+STR,Aston Martin,29.0,0 days 00:01:26.809000,2.0,HARD,13.0,1,True,,,86.809
+STR,Aston Martin,30.0,0 days 00:01:26.924000,2.0,HARD,14.0,1,True,,,86.924
+STR,Aston Martin,31.0,0 days 00:01:26.617000,2.0,HARD,15.0,1,True,,,86.617
+STR,Aston Martin,32.0,0 days 00:01:26.832000,2.0,HARD,16.0,1,True,,,86.832
+STR,Aston Martin,33.0,0 days 00:01:27.121000,2.0,HARD,17.0,1,True,,,87.121
+STR,Aston Martin,34.0,0 days 00:01:27.298000,2.0,HARD,18.0,1,True,,,87.298
+STR,Aston Martin,35.0,0 days 00:01:26.970000,2.0,HARD,19.0,1,True,,,86.97
+STR,Aston Martin,36.0,0 days 00:01:27.096000,2.0,HARD,20.0,1,True,,,87.096
+STR,Aston Martin,37.0,0 days 00:01:27.373000,2.0,HARD,21.0,1,True,,,87.373
+STR,Aston Martin,38.0,0 days 00:01:26.902000,2.0,HARD,22.0,1,True,,,86.902
+STR,Aston Martin,39.0,0 days 00:01:26.904000,2.0,HARD,23.0,1,True,,,86.904
+STR,Aston Martin,40.0,0 days 00:01:27.072000,2.0,HARD,24.0,1,True,,,87.072
+STR,Aston Martin,41.0,0 days 00:01:26.916000,2.0,HARD,25.0,1,True,,,86.916
+STR,Aston Martin,42.0,0 days 00:01:27.067000,2.0,HARD,26.0,1,True,,,87.067
+STR,Aston Martin,43.0,0 days 00:01:31.134000,2.0,HARD,27.0,1,True,,,91.134
+STR,Aston Martin,44.0,0 days 00:01:28.214000,2.0,HARD,28.0,1,True,,,88.214
+STR,Aston Martin,45.0,0 days 00:01:28.336000,2.0,HARD,29.0,1,True,,,88.336
+STR,Aston Martin,46.0,0 days 00:01:27.153000,2.0,HARD,30.0,1,True,,,87.153
+STR,Aston Martin,47.0,0 days 00:01:27.267000,2.0,HARD,31.0,1,True,,,87.267
+STR,Aston Martin,48.0,0 days 00:01:27.590000,2.0,HARD,32.0,1,True,,,87.59
+STR,Aston Martin,49.0,0 days 00:01:29.467000,2.0,HARD,33.0,1,True,,,89.467
+STR,Aston Martin,50.0,0 days 00:01:30.865000,2.0,HARD,34.0,1,True,,,90.865
+SAR,Williams,2.0,0 days 00:01:28.080000,1.0,MEDIUM,5.0,1,True,,,88.08
+SAR,Williams,3.0,0 days 00:01:27.647000,1.0,MEDIUM,6.0,1,True,,,87.647
+SAR,Williams,4.0,0 days 00:01:27.389000,1.0,MEDIUM,7.0,1,True,,,87.389
+SAR,Williams,5.0,0 days 00:01:27.170000,1.0,MEDIUM,8.0,1,True,,,87.17
+SAR,Williams,6.0,0 days 00:01:27.135000,1.0,MEDIUM,9.0,1,True,,,87.135
+SAR,Williams,7.0,0 days 00:01:27.251000,1.0,MEDIUM,10.0,1,True,,,87.251
+SAR,Williams,8.0,0 days 00:01:27.233000,1.0,MEDIUM,11.0,1,True,,,87.233
+SAR,Williams,9.0,0 days 00:01:27.459000,1.0,MEDIUM,12.0,1,True,,,87.459
+SAR,Williams,10.0,0 days 00:01:27.685000,1.0,MEDIUM,13.0,1,True,,,87.685
+SAR,Williams,11.0,0 days 00:01:27.804000,1.0,MEDIUM,14.0,1,True,,,87.804
+SAR,Williams,12.0,0 days 00:01:28.694000,1.0,MEDIUM,15.0,1,True,,,88.694
+SAR,Williams,13.0,0 days 00:01:27.799000,1.0,MEDIUM,16.0,1,True,,,87.799
+SAR,Williams,16.0,0 days 00:01:26.840000,2.0,HARD,5.0,1,True,,,86.84
+SAR,Williams,17.0,0 days 00:01:27,2.0,HARD,6.0,1,True,,,87.0
+SAR,Williams,18.0,0 days 00:01:26.906000,2.0,HARD,7.0,1,True,,,86.906
+SAR,Williams,19.0,0 days 00:01:27.165000,2.0,HARD,8.0,1,True,,,87.165
+SAR,Williams,20.0,0 days 00:01:27.280000,2.0,HARD,9.0,1,True,,,87.28
+SAR,Williams,21.0,0 days 00:01:27.363000,2.0,HARD,10.0,1,True,,,87.363
+SAR,Williams,22.0,0 days 00:01:27.465000,2.0,HARD,11.0,1,True,,,87.465
+SAR,Williams,23.0,0 days 00:01:27.149000,2.0,HARD,12.0,1,True,,,87.149
+SAR,Williams,24.0,0 days 00:01:27.104000,2.0,HARD,13.0,1,True,,,87.104
+SAR,Williams,25.0,0 days 00:01:27.165000,2.0,HARD,14.0,1,True,,,87.165
+SAR,Williams,26.0,0 days 00:01:27.021000,2.0,HARD,15.0,1,True,,,87.021
+SAR,Williams,27.0,0 days 00:01:27.253000,2.0,HARD,16.0,1,True,,,87.253
+SAR,Williams,28.0,0 days 00:01:27.546000,2.0,HARD,17.0,1,True,,,87.546
+SAR,Williams,29.0,0 days 00:01:27.545000,2.0,HARD,18.0,1,True,,,87.545
+SAR,Williams,30.0,0 days 00:01:27.121000,2.0,HARD,19.0,1,True,,,87.121
+SAR,Williams,31.0,0 days 00:01:27.461000,2.0,HARD,20.0,1,True,,,87.461
+SAR,Williams,32.0,0 days 00:01:27.522000,2.0,HARD,21.0,1,True,,,87.522
+SAR,Williams,33.0,0 days 00:01:27.293000,2.0,HARD,22.0,1,True,,,87.293
+SAR,Williams,34.0,0 days 00:01:27.219000,2.0,HARD,23.0,1,True,,,87.219
+SAR,Williams,35.0,0 days 00:01:27.233000,2.0,HARD,24.0,1,True,,,87.233
+SAR,Williams,36.0,0 days 00:01:27.142000,2.0,HARD,25.0,1,True,,,87.142
+SAR,Williams,37.0,0 days 00:01:27.292000,2.0,HARD,26.0,1,True,,,87.292
+SAR,Williams,38.0,0 days 00:01:27.103000,2.0,HARD,27.0,1,True,,,87.103
+SAR,Williams,39.0,0 days 00:01:27.137000,2.0,HARD,28.0,1,True,,,87.137
+SAR,Williams,40.0,0 days 00:01:27.640000,2.0,HARD,29.0,1,True,,,87.64
+SAR,Williams,41.0,0 days 00:01:27.180000,2.0,HARD,30.0,1,True,,,87.18
+SAR,Williams,42.0,0 days 00:01:27.176000,2.0,HARD,31.0,1,True,,,87.176
+SAR,Williams,43.0,0 days 00:01:29.385000,2.0,HARD,32.0,1,True,,,89.385
+SAR,Williams,44.0,0 days 00:01:27.686000,2.0,HARD,33.0,1,True,,,87.686
+SAR,Williams,45.0,0 days 00:01:27.502000,2.0,HARD,34.0,1,True,,,87.502
+SAR,Williams,46.0,0 days 00:01:27.709000,2.0,HARD,35.0,1,True,,,87.709
+SAR,Williams,47.0,0 days 00:01:27.622000,2.0,HARD,36.0,1,True,,,87.622
+SAR,Williams,48.0,0 days 00:01:27.440000,2.0,HARD,37.0,1,True,,,87.44
+SAR,Williams,49.0,0 days 00:01:27.742000,2.0,HARD,38.0,1,True,,,87.742
+SAR,Williams,50.0,0 days 00:01:29.626000,2.0,HARD,39.0,1,True,,,89.626
+MAG,Haas F1 Team,2.0,0 days 00:01:28.923000,1.0,HARD,6.0,1,True,,,88.923
+MAG,Haas F1 Team,3.0,0 days 00:01:28.538000,1.0,HARD,7.0,1,True,,,88.538
+MAG,Haas F1 Team,4.0,0 days 00:01:29.252000,1.0,HARD,8.0,1,True,,,89.252
+MAG,Haas F1 Team,5.0,0 days 00:01:28.276000,1.0,HARD,9.0,1,True,,,88.276
+MAG,Haas F1 Team,6.0,0 days 00:01:27.949000,1.0,HARD,10.0,1,True,,,87.949
+MAG,Haas F1 Team,7.0,0 days 00:01:27.691000,1.0,HARD,11.0,1,True,,,87.691
+MAG,Haas F1 Team,8.0,0 days 00:01:27.935000,1.0,HARD,12.0,1,True,,,87.935
+MAG,Haas F1 Team,9.0,0 days 00:01:28.218000,1.0,HARD,13.0,1,True,,,88.218
+MAG,Haas F1 Team,10.0,0 days 00:01:28.511000,1.0,HARD,14.0,1,True,,,88.511
+MAG,Haas F1 Team,11.0,0 days 00:01:28.792000,1.0,HARD,15.0,1,True,,,88.792
+MAG,Haas F1 Team,14.0,0 days 00:01:28.080000,2.0,MEDIUM,2.0,1,True,,,88.08
+MAG,Haas F1 Team,15.0,0 days 00:01:27.848000,2.0,MEDIUM,3.0,1,True,,,87.848
+MAG,Haas F1 Team,16.0,0 days 00:01:27.649000,2.0,MEDIUM,4.0,1,True,,,87.649
+MAG,Haas F1 Team,17.0,0 days 00:01:27.589000,2.0,MEDIUM,5.0,1,True,,,87.589
+MAG,Haas F1 Team,18.0,0 days 00:01:27.898000,2.0,MEDIUM,6.0,1,True,,,87.898
+MAG,Haas F1 Team,19.0,0 days 00:01:27.159000,2.0,MEDIUM,7.0,1,True,,,87.159
+MAG,Haas F1 Team,20.0,0 days 00:01:27.011000,2.0,MEDIUM,8.0,1,True,,,87.011
+MAG,Haas F1 Team,21.0,0 days 00:01:27.128000,2.0,MEDIUM,9.0,1,True,,,87.128
+MAG,Haas F1 Team,22.0,0 days 00:01:27.244000,2.0,MEDIUM,10.0,1,True,,,87.244
+MAG,Haas F1 Team,23.0,0 days 00:01:27.492000,2.0,MEDIUM,11.0,1,True,,,87.492
+MAG,Haas F1 Team,24.0,0 days 00:01:27.536000,2.0,MEDIUM,12.0,1,True,,,87.536
+MAG,Haas F1 Team,25.0,0 days 00:01:27.502000,2.0,MEDIUM,13.0,1,True,,,87.502
+MAG,Haas F1 Team,26.0,0 days 00:01:27.418000,2.0,MEDIUM,14.0,1,True,,,87.418
+MAG,Haas F1 Team,27.0,0 days 00:01:27.220000,2.0,MEDIUM,15.0,1,True,,,87.22
+MAG,Haas F1 Team,28.0,0 days 00:01:27.154000,2.0,MEDIUM,16.0,1,True,,,87.154
+MAG,Haas F1 Team,29.0,0 days 00:01:27.344000,2.0,MEDIUM,17.0,1,True,,,87.344
+MAG,Haas F1 Team,30.0,0 days 00:01:27.384000,2.0,MEDIUM,18.0,1,True,,,87.384
+MAG,Haas F1 Team,31.0,0 days 00:01:27.486000,2.0,MEDIUM,19.0,1,True,,,87.486
+MAG,Haas F1 Team,32.0,0 days 00:01:27.556000,2.0,MEDIUM,20.0,1,True,,,87.556
+MAG,Haas F1 Team,35.0,0 days 00:01:26.300000,3.0,MEDIUM,2.0,1,True,,,86.3
+MAG,Haas F1 Team,36.0,0 days 00:01:26.385000,3.0,MEDIUM,3.0,1,True,,,86.385
+MAG,Haas F1 Team,37.0,0 days 00:01:26.454000,3.0,MEDIUM,4.0,1,True,,,86.454
+MAG,Haas F1 Team,38.0,0 days 00:01:26.394000,3.0,MEDIUM,5.0,1,True,,,86.394
+MAG,Haas F1 Team,39.0,0 days 00:01:30.343000,3.0,MEDIUM,6.0,1,True,,,90.343
+MAG,Haas F1 Team,40.0,0 days 00:01:26.696000,3.0,MEDIUM,7.0,1,True,,,86.696
+MAG,Haas F1 Team,41.0,0 days 00:01:26.328000,3.0,MEDIUM,8.0,1,True,,,86.328
+MAG,Haas F1 Team,42.0,0 days 00:01:26.278000,3.0,MEDIUM,9.0,1,True,,,86.278
+MAG,Haas F1 Team,43.0,0 days 00:01:26.511000,3.0,MEDIUM,10.0,1,True,,,86.511
+MAG,Haas F1 Team,44.0,0 days 00:01:26.514000,3.0,MEDIUM,11.0,1,True,,,86.514
+MAG,Haas F1 Team,45.0,0 days 00:01:26.787000,3.0,MEDIUM,12.0,1,True,,,86.787
+MAG,Haas F1 Team,46.0,0 days 00:01:26.983000,3.0,MEDIUM,13.0,1,True,,,86.983
+MAG,Haas F1 Team,47.0,0 days 00:01:26.660000,3.0,MEDIUM,14.0,1,True,,,86.66
+MAG,Haas F1 Team,48.0,0 days 00:01:26.739000,3.0,MEDIUM,15.0,1,True,,,86.739
+MAG,Haas F1 Team,49.0,0 days 00:01:27.054000,3.0,MEDIUM,16.0,1,True,,,87.054
+MAG,Haas F1 Team,50.0,0 days 00:01:26.904000,3.0,MEDIUM,17.0,1,True,,,86.904
+ALB,Williams,2.0,0 days 00:01:27.067000,1.0,MEDIUM,5.0,1,True,,,87.067
+ALB,Williams,3.0,0 days 00:01:26.578000,1.0,MEDIUM,6.0,1,True,,,86.578
+ALB,Williams,4.0,0 days 00:01:26.684000,1.0,MEDIUM,7.0,1,True,,,86.684
+ALB,Williams,5.0,0 days 00:01:26.868000,1.0,MEDIUM,8.0,1,True,,,86.868
+ALB,Williams,6.0,0 days 00:01:26.661000,1.0,MEDIUM,9.0,1,True,,,86.661
+ALB,Williams,7.0,0 days 00:01:26.773000,1.0,MEDIUM,10.0,1,True,,,86.773
+ALB,Williams,8.0,0 days 00:01:26.676000,1.0,MEDIUM,11.0,1,True,,,86.676
+ALB,Williams,9.0,0 days 00:01:26.838000,1.0,MEDIUM,12.0,1,True,,,86.838
+ALB,Williams,10.0,0 days 00:01:27.305000,1.0,MEDIUM,13.0,1,True,,,87.305
+ALB,Williams,11.0,0 days 00:01:27.389000,1.0,MEDIUM,14.0,1,True,,,87.389
+ALB,Williams,12.0,0 days 00:01:27.533000,1.0,MEDIUM,15.0,1,True,,,87.533
+ALB,Williams,13.0,0 days 00:01:27.676000,1.0,MEDIUM,16.0,1,True,,,87.676
+ALB,Williams,14.0,0 days 00:01:27.723000,1.0,MEDIUM,17.0,1,True,,,87.723
+ALB,Williams,17.0,0 days 00:01:27.087000,2.0,HARD,5.0,1,True,,,87.087
+ALB,Williams,18.0,0 days 00:01:26.893000,2.0,HARD,6.0,1,True,,,86.893
+ALB,Williams,19.0,0 days 00:01:27.308000,2.0,HARD,7.0,1,True,,,87.308
+ALB,Williams,20.0,0 days 00:01:26.853000,2.0,HARD,8.0,1,True,,,86.853
+ALB,Williams,21.0,0 days 00:01:26.601000,2.0,HARD,9.0,1,True,,,86.601
+ALB,Williams,22.0,0 days 00:01:26.833000,2.0,HARD,10.0,1,True,,,86.833
+ALB,Williams,23.0,0 days 00:01:26.913000,2.0,HARD,11.0,1,True,,,86.913
+ALB,Williams,24.0,0 days 00:01:26.748000,2.0,HARD,12.0,1,True,,,86.748
+ALB,Williams,25.0,0 days 00:01:26.898000,2.0,HARD,13.0,1,True,,,86.898
+ALB,Williams,26.0,0 days 00:01:27.049000,2.0,HARD,14.0,1,True,,,87.049
+ALB,Williams,27.0,0 days 00:01:26.735000,2.0,HARD,15.0,1,True,,,86.735
+ALB,Williams,28.0,0 days 00:01:27.024000,2.0,HARD,16.0,1,True,,,87.024
+ALB,Williams,29.0,0 days 00:01:26.977000,2.0,HARD,17.0,1,True,,,86.977
+ALB,Williams,30.0,0 days 00:01:26.940000,2.0,HARD,18.0,1,True,,,86.94
+ALB,Williams,31.0,0 days 00:01:26.735000,2.0,HARD,19.0,1,True,,,86.735
+ALB,Williams,32.0,0 days 00:01:26.432000,2.0,HARD,20.0,1,True,,,86.432
+ALB,Williams,33.0,0 days 00:01:26.389000,2.0,HARD,21.0,1,True,,,86.389
+ALB,Williams,34.0,0 days 00:01:26.579000,2.0,HARD,22.0,1,True,,,86.579
+ALB,Williams,35.0,0 days 00:01:26.545000,2.0,HARD,23.0,1,True,,,86.545
+ALB,Williams,36.0,0 days 00:01:26.981000,2.0,HARD,24.0,1,True,,,86.981
+ALB,Williams,37.0,0 days 00:01:26.831000,2.0,HARD,25.0,1,True,,,86.831
+ALB,Williams,38.0,0 days 00:01:27.370000,2.0,HARD,26.0,1,True,,,87.37
+ALB,Williams,39.0,0 days 00:01:26.802000,2.0,HARD,27.0,1,True,,,86.802
+ALB,Williams,40.0,0 days 00:01:26.572000,2.0,HARD,28.0,1,True,,,86.572
+ALB,Williams,41.0,0 days 00:01:26.675000,2.0,HARD,29.0,1,True,,,86.675
+ALB,Williams,42.0,0 days 00:01:26.708000,2.0,HARD,30.0,1,True,,,86.708
+ALB,Williams,43.0,0 days 00:01:26.913000,2.0,HARD,31.0,1,True,,,86.913
+ALB,Williams,44.0,0 days 00:01:27.725000,2.0,HARD,32.0,1,True,,,87.725
+ALB,Williams,45.0,0 days 00:01:26.907000,2.0,HARD,33.0,1,True,,,86.907
+ALB,Williams,46.0,0 days 00:01:27.252000,2.0,HARD,34.0,1,True,,,87.252
+ALB,Williams,47.0,0 days 00:01:28.491000,2.0,HARD,35.0,1,True,,,88.491
+ALB,Williams,48.0,0 days 00:01:26.822000,2.0,HARD,36.0,1,True,,,86.822
+ALB,Williams,49.0,0 days 00:01:27.569000,2.0,HARD,37.0,1,True,,,87.569
+ALB,Williams,50.0,0 days 00:01:27.197000,2.0,HARD,38.0,1,True,,,87.197
+ALB,Williams,51.0,0 days 00:01:27.433000,2.0,HARD,39.0,1,True,,,87.433
+ZHO,Alfa Romeo,2.0,0 days 00:01:28.167000,1.0,MEDIUM,2.0,1,True,,,88.167
+ZHO,Alfa Romeo,3.0,0 days 00:01:27.871000,1.0,MEDIUM,3.0,1,True,,,87.871
+ZHO,Alfa Romeo,4.0,0 days 00:01:27.615000,1.0,MEDIUM,4.0,1,True,,,87.615
+ZHO,Alfa Romeo,5.0,0 days 00:01:27.535000,1.0,MEDIUM,5.0,1,True,,,87.535
+ZHO,Alfa Romeo,6.0,0 days 00:01:27.066000,1.0,MEDIUM,6.0,1,True,,,87.066
+ZHO,Alfa Romeo,7.0,0 days 00:01:27.185000,1.0,MEDIUM,7.0,1,True,,,87.185
+ZHO,Alfa Romeo,8.0,0 days 00:01:27.253000,1.0,MEDIUM,8.0,1,True,,,87.253
+ZHO,Alfa Romeo,9.0,0 days 00:01:27.416000,1.0,MEDIUM,9.0,1,True,,,87.416
+ZHO,Alfa Romeo,10.0,0 days 00:01:27.544000,1.0,MEDIUM,10.0,1,True,,,87.544
+ZHO,Alfa Romeo,13.0,0 days 00:01:26.253000,2.0,HARD,5.0,1,True,,,86.253
+ZHO,Alfa Romeo,14.0,0 days 00:01:27.775000,2.0,HARD,6.0,1,True,,,87.775
+ZHO,Alfa Romeo,15.0,0 days 00:01:27.645000,2.0,HARD,7.0,1,True,,,87.645
+ZHO,Alfa Romeo,16.0,0 days 00:01:27.153000,2.0,HARD,8.0,1,True,,,87.153
+ZHO,Alfa Romeo,17.0,0 days 00:01:26.866000,2.0,HARD,9.0,1,True,,,86.866
+ZHO,Alfa Romeo,18.0,0 days 00:01:27.055000,2.0,HARD,10.0,1,True,,,87.055
+ZHO,Alfa Romeo,19.0,0 days 00:01:27.347000,2.0,HARD,11.0,1,True,,,87.347
+ZHO,Alfa Romeo,20.0,0 days 00:01:27.075000,2.0,HARD,12.0,1,True,,,87.075
+ZHO,Alfa Romeo,21.0,0 days 00:01:27.170000,2.0,HARD,13.0,1,True,,,87.17
+ZHO,Alfa Romeo,22.0,0 days 00:01:27.333000,2.0,HARD,14.0,1,True,,,87.333
+ZHO,Alfa Romeo,23.0,0 days 00:01:27.285000,2.0,HARD,15.0,1,True,,,87.285
+ZHO,Alfa Romeo,24.0,0 days 00:01:27.153000,2.0,HARD,16.0,1,True,,,87.153
+ZHO,Alfa Romeo,25.0,0 days 00:01:27.028000,2.0,HARD,17.0,1,True,,,87.028
+ZHO,Alfa Romeo,26.0,0 days 00:01:27.164000,2.0,HARD,18.0,1,True,,,87.164
+ZHO,Alfa Romeo,27.0,0 days 00:01:27.348000,2.0,HARD,19.0,1,True,,,87.348
+ZHO,Alfa Romeo,28.0,0 days 00:01:27.858000,2.0,HARD,20.0,1,True,,,87.858
+ZHO,Alfa Romeo,29.0,0 days 00:01:27.356000,2.0,HARD,21.0,1,True,,,87.356
+ZHO,Alfa Romeo,30.0,0 days 00:01:27.442000,2.0,HARD,22.0,1,True,,,87.442
+ZHO,Alfa Romeo,31.0,0 days 00:01:27.683000,2.0,HARD,23.0,1,True,,,87.683
+ZHO,Alfa Romeo,32.0,0 days 00:01:27.820000,2.0,HARD,24.0,1,True,,,87.82
+ZHO,Alfa Romeo,35.0,0 days 00:01:25.983000,3.0,MEDIUM,2.0,1,True,,,85.983
+ZHO,Alfa Romeo,36.0,0 days 00:01:26.935000,3.0,MEDIUM,3.0,1,True,,,86.935
+ZHO,Alfa Romeo,37.0,0 days 00:01:26.700000,3.0,MEDIUM,4.0,1,True,,,86.7
+ZHO,Alfa Romeo,38.0,0 days 00:01:26.503000,3.0,MEDIUM,5.0,1,True,,,86.503
+ZHO,Alfa Romeo,39.0,0 days 00:01:26.473000,3.0,MEDIUM,6.0,1,True,,,86.473
+ZHO,Alfa Romeo,40.0,0 days 00:01:26.406000,3.0,MEDIUM,7.0,1,True,,,86.406
+ZHO,Alfa Romeo,41.0,0 days 00:01:26.600000,3.0,MEDIUM,8.0,1,True,,,86.6
+ZHO,Alfa Romeo,42.0,0 days 00:01:26.671000,3.0,MEDIUM,9.0,1,True,,,86.671
+ZHO,Alfa Romeo,43.0,0 days 00:01:26.288000,3.0,MEDIUM,10.0,1,True,,,86.288
+ZHO,Alfa Romeo,44.0,0 days 00:01:26.313000,3.0,MEDIUM,11.0,1,True,,,86.313
+ZHO,Alfa Romeo,45.0,0 days 00:01:26.461000,3.0,MEDIUM,12.0,1,True,,,86.461
+ZHO,Alfa Romeo,46.0,0 days 00:01:26.134000,3.0,MEDIUM,13.0,1,True,,,86.134
+ZHO,Alfa Romeo,47.0,0 days 00:01:26.305000,3.0,MEDIUM,14.0,1,True,,,86.305
+ZHO,Alfa Romeo,48.0,0 days 00:01:26.448000,3.0,MEDIUM,15.0,1,True,,,86.448
+ZHO,Alfa Romeo,49.0,0 days 00:01:28.825000,3.0,MEDIUM,16.0,1,True,,,88.825
+ZHO,Alfa Romeo,50.0,0 days 00:01:26.768000,3.0,MEDIUM,17.0,1,True,,,86.768
+HUL,Haas F1 Team,2.0,0 days 00:01:27.920000,1.0,MEDIUM,5.0,1,True,,,87.92
+HUL,Haas F1 Team,3.0,0 days 00:01:27.360000,1.0,MEDIUM,6.0,1,True,,,87.36
+HUL,Haas F1 Team,4.0,0 days 00:01:27.200000,1.0,MEDIUM,7.0,1,True,,,87.2
+HUL,Haas F1 Team,5.0,0 days 00:01:27.035000,1.0,MEDIUM,8.0,1,True,,,87.035
+HUL,Haas F1 Team,6.0,0 days 00:01:27.169000,1.0,MEDIUM,9.0,1,True,,,87.169
+HUL,Haas F1 Team,7.0,0 days 00:01:27.465000,1.0,MEDIUM,10.0,1,True,,,87.465
+HUL,Haas F1 Team,8.0,0 days 00:01:28.059000,1.0,MEDIUM,11.0,1,True,,,88.059
+HUL,Haas F1 Team,9.0,0 days 00:01:27.481000,1.0,MEDIUM,12.0,1,True,,,87.481
+HUL,Haas F1 Team,10.0,0 days 00:01:27.563000,1.0,MEDIUM,13.0,1,True,,,87.563
+HUL,Haas F1 Team,11.0,0 days 00:01:28.055000,1.0,MEDIUM,14.0,1,True,,,88.055
+HUL,Haas F1 Team,12.0,0 days 00:01:29.091000,1.0,MEDIUM,15.0,1,True,,,89.091
+HUL,Haas F1 Team,13.0,0 days 00:01:28.009000,1.0,MEDIUM,16.0,1,True,,,88.009
+HUL,Haas F1 Team,16.0,0 days 00:01:26.990000,2.0,HARD,7.0,1,True,,,86.99
+HUL,Haas F1 Team,17.0,0 days 00:01:26.988000,2.0,HARD,8.0,1,True,,,86.988
+HUL,Haas F1 Team,18.0,0 days 00:01:27.294000,2.0,HARD,9.0,1,True,,,87.294
+HUL,Haas F1 Team,19.0,0 days 00:01:27.312000,2.0,HARD,10.0,1,True,,,87.312
+HUL,Haas F1 Team,20.0,0 days 00:01:27.078000,2.0,HARD,11.0,1,True,,,87.078
+HUL,Haas F1 Team,21.0,0 days 00:01:27.161000,2.0,HARD,12.0,1,True,,,87.161
+HUL,Haas F1 Team,22.0,0 days 00:01:27.074000,2.0,HARD,13.0,1,True,,,87.074
+HUL,Haas F1 Team,23.0,0 days 00:01:27.290000,2.0,HARD,14.0,1,True,,,87.29
+HUL,Haas F1 Team,24.0,0 days 00:01:27.143000,2.0,HARD,15.0,1,True,,,87.143
+HUL,Haas F1 Team,25.0,0 days 00:01:27.229000,2.0,HARD,16.0,1,True,,,87.229
+HUL,Haas F1 Team,26.0,0 days 00:01:27.344000,2.0,HARD,17.0,1,True,,,87.344
+HUL,Haas F1 Team,27.0,0 days 00:01:27.080000,2.0,HARD,18.0,1,True,,,87.08
+HUL,Haas F1 Team,28.0,0 days 00:01:27.600000,2.0,HARD,19.0,1,True,,,87.6
+HUL,Haas F1 Team,29.0,0 days 00:01:27.466000,2.0,HARD,20.0,1,True,,,87.466
+HUL,Haas F1 Team,30.0,0 days 00:01:27.775000,2.0,HARD,21.0,1,True,,,87.775
+HUL,Haas F1 Team,31.0,0 days 00:01:27.547000,2.0,HARD,22.0,1,True,,,87.547
+HUL,Haas F1 Team,32.0,0 days 00:01:27.976000,2.0,HARD,23.0,1,True,,,87.976
+HUL,Haas F1 Team,33.0,0 days 00:01:28.575000,2.0,HARD,24.0,1,True,,,88.575
+HUL,Haas F1 Team,34.0,0 days 00:01:27.991000,2.0,HARD,25.0,1,True,,,87.991
+HUL,Haas F1 Team,35.0,0 days 00:01:27.945000,2.0,HARD,26.0,1,True,,,87.945
+HUL,Haas F1 Team,36.0,0 days 00:01:28.084000,2.0,HARD,27.0,1,True,,,88.084
+HUL,Haas F1 Team,37.0,0 days 00:01:28.006000,2.0,HARD,28.0,1,True,,,88.006
+HUL,Haas F1 Team,38.0,0 days 00:01:28.969000,2.0,HARD,29.0,1,True,,,88.969
+HUL,Haas F1 Team,41.0,0 days 00:01:26.395000,3.0,MEDIUM,5.0,1,True,,,86.395
+HUL,Haas F1 Team,42.0,0 days 00:01:26.102000,3.0,MEDIUM,6.0,1,True,,,86.102
+HUL,Haas F1 Team,43.0,0 days 00:01:26.234000,3.0,MEDIUM,7.0,1,True,,,86.234
+HUL,Haas F1 Team,44.0,0 days 00:01:26.459000,3.0,MEDIUM,8.0,1,True,,,86.459
+HUL,Haas F1 Team,45.0,0 days 00:01:26.723000,3.0,MEDIUM,9.0,1,True,,,86.723
+HUL,Haas F1 Team,46.0,0 days 00:01:26.645000,3.0,MEDIUM,10.0,1,True,,,86.645
+HUL,Haas F1 Team,47.0,0 days 00:01:26.251000,3.0,MEDIUM,11.0,1,True,,,86.251
+HUL,Haas F1 Team,48.0,0 days 00:01:26.359000,3.0,MEDIUM,12.0,1,True,,,86.359
+HUL,Haas F1 Team,49.0,0 days 00:01:25.981000,3.0,MEDIUM,13.0,1,True,,,85.981
+HUL,Haas F1 Team,50.0,0 days 00:01:25.894000,3.0,MEDIUM,14.0,1,True,,,85.894
+OCO,Alpine,2.0,0 days 00:01:28.667000,1.0,MEDIUM,2.0,1,True,,,88.667
+OCO,Alpine,3.0,0 days 00:01:27.822000,1.0,MEDIUM,3.0,1,True,,,87.822
+OCO,Alpine,4.0,0 days 00:01:27.582000,1.0,MEDIUM,4.0,1,True,,,87.582
+OCO,Alpine,5.0,0 days 00:01:27.385000,1.0,MEDIUM,5.0,1,True,,,87.385
+OCO,Alpine,6.0,0 days 00:01:27.306000,1.0,MEDIUM,6.0,1,True,,,87.306
+OCO,Alpine,7.0,0 days 00:01:27.117000,1.0,MEDIUM,7.0,1,True,,,87.117
+OCO,Alpine,8.0,0 days 00:01:27.309000,1.0,MEDIUM,8.0,1,True,,,87.309
+OCO,Alpine,9.0,0 days 00:01:27.396000,1.0,MEDIUM,9.0,1,True,,,87.396
+OCO,Alpine,10.0,0 days 00:01:27.607000,1.0,MEDIUM,10.0,1,True,,,87.607
+OCO,Alpine,11.0,0 days 00:01:27.738000,1.0,MEDIUM,11.0,1,True,,,87.738
+OCO,Alpine,12.0,0 days 00:01:28.232000,1.0,MEDIUM,12.0,1,True,,,88.232
+OCO,Alpine,13.0,0 days 00:01:27.855000,1.0,MEDIUM,13.0,1,True,,,87.855
+OCO,Alpine,14.0,0 days 00:01:28.091000,1.0,MEDIUM,14.0,1,True,,,88.091
+OCO,Alpine,15.0,0 days 00:01:28.197000,1.0,MEDIUM,15.0,1,True,,,88.197
+OCO,Alpine,16.0,0 days 00:01:28.249000,1.0,MEDIUM,16.0,1,True,,,88.249
+OCO,Alpine,17.0,0 days 00:01:28.111000,1.0,MEDIUM,17.0,1,True,,,88.111
+OCO,Alpine,18.0,0 days 00:01:28.261000,1.0,MEDIUM,18.0,1,True,,,88.261
+OCO,Alpine,19.0,0 days 00:01:28.216000,1.0,MEDIUM,19.0,1,True,,,88.216
+OCO,Alpine,20.0,0 days 00:01:29.387000,1.0,MEDIUM,20.0,1,True,,,89.387
+OCO,Alpine,21.0,0 days 00:01:28.489000,1.0,MEDIUM,21.0,1,True,,,88.489
+OCO,Alpine,22.0,0 days 00:01:28.884000,1.0,MEDIUM,22.0,1,True,,,88.884
+OCO,Alpine,23.0,0 days 00:01:29.474000,1.0,MEDIUM,23.0,1,True,,,89.474
+OCO,Alpine,26.0,0 days 00:01:27.158000,2.0,HARD,5.0,1,True,,,87.158
+OCO,Alpine,27.0,0 days 00:01:27.119000,2.0,HARD,6.0,1,True,,,87.119
+OCO,Alpine,28.0,0 days 00:01:27.190000,2.0,HARD,7.0,1,True,,,87.19
+OCO,Alpine,29.0,0 days 00:01:27.350000,2.0,HARD,8.0,1,True,,,87.35
+OCO,Alpine,30.0,0 days 00:01:27.308000,2.0,HARD,9.0,1,True,,,87.308
+OCO,Alpine,31.0,0 days 00:01:27.208000,2.0,HARD,10.0,1,True,,,87.208
+OCO,Alpine,32.0,0 days 00:01:27.119000,2.0,HARD,11.0,1,True,,,87.119
+OCO,Alpine,33.0,0 days 00:01:26.963000,2.0,HARD,12.0,1,True,,,86.963
+OCO,Alpine,34.0,0 days 00:01:27.626000,2.0,HARD,13.0,1,True,,,87.626
+OCO,Alpine,35.0,0 days 00:01:27.441000,2.0,HARD,14.0,1,True,,,87.441
+OCO,Alpine,36.0,0 days 00:01:27.476000,2.0,HARD,15.0,1,True,,,87.476
+OCO,Alpine,37.0,0 days 00:01:27.429000,2.0,HARD,16.0,1,True,,,87.429
+OCO,Alpine,38.0,0 days 00:01:27.079000,2.0,HARD,17.0,1,True,,,87.079
+NOR,McLaren,2.0,0 days 00:01:27.575000,1.0,MEDIUM,2.0,1,True,,,87.575
+NOR,McLaren,3.0,0 days 00:01:27.105000,1.0,MEDIUM,3.0,1,True,,,87.105
+NOR,McLaren,4.0,0 days 00:01:27.069000,1.0,MEDIUM,4.0,1,True,,,87.069
+NOR,McLaren,5.0,0 days 00:01:27.142000,1.0,MEDIUM,5.0,1,True,,,87.142
+NOR,McLaren,6.0,0 days 00:01:26.796000,1.0,MEDIUM,6.0,1,True,,,86.796
+NOR,McLaren,7.0,0 days 00:01:26.864000,1.0,MEDIUM,7.0,1,True,,,86.864
+NOR,McLaren,8.0,0 days 00:01:26.628000,1.0,MEDIUM,8.0,1,True,,,86.628
+NOR,McLaren,9.0,0 days 00:01:26.893000,1.0,MEDIUM,9.0,1,True,,,86.893
+NOR,McLaren,10.0,0 days 00:01:26.965000,1.0,MEDIUM,10.0,1,True,,,86.965
+NOR,McLaren,11.0,0 days 00:01:27.066000,1.0,MEDIUM,11.0,1,True,,,87.066
+NOR,McLaren,12.0,0 days 00:01:27.438000,1.0,MEDIUM,12.0,1,True,,,87.438
+NOR,McLaren,13.0,0 days 00:01:27.359000,1.0,MEDIUM,13.0,1,True,,,87.359
+NOR,McLaren,14.0,0 days 00:01:27.478000,1.0,MEDIUM,14.0,1,True,,,87.478
+NOR,McLaren,15.0,0 days 00:01:27.796000,1.0,MEDIUM,15.0,1,True,,,87.796
+NOR,McLaren,16.0,0 days 00:01:27.199000,1.0,MEDIUM,16.0,1,True,,,87.199
+NOR,McLaren,17.0,0 days 00:01:27.597000,1.0,MEDIUM,17.0,1,True,,,87.597
+NOR,McLaren,18.0,0 days 00:01:27.272000,1.0,MEDIUM,18.0,1,True,,,87.272
+NOR,McLaren,19.0,0 days 00:01:27.280000,1.0,MEDIUM,19.0,1,True,,,87.28
+NOR,McLaren,20.0,0 days 00:01:27.716000,1.0,MEDIUM,20.0,1,True,,,87.716
+NOR,McLaren,21.0,0 days 00:01:27.718000,1.0,MEDIUM,21.0,1,True,,,87.718
+NOR,McLaren,24.0,0 days 00:01:26.144000,2.0,HARD,6.0,1,True,,,86.144
+NOR,McLaren,25.0,0 days 00:01:26.424000,2.0,HARD,7.0,1,True,,,86.424
+NOR,McLaren,26.0,0 days 00:01:26.402000,2.0,HARD,8.0,1,True,,,86.402
+NOR,McLaren,27.0,0 days 00:01:26.485000,2.0,HARD,9.0,1,True,,,86.485
+NOR,McLaren,28.0,0 days 00:01:26.396000,2.0,HARD,10.0,1,True,,,86.396
+NOR,McLaren,29.0,0 days 00:01:26.472000,2.0,HARD,11.0,1,True,,,86.472
+NOR,McLaren,30.0,0 days 00:01:26.968000,2.0,HARD,12.0,1,True,,,86.968
+NOR,McLaren,31.0,0 days 00:01:26.909000,2.0,HARD,13.0,1,True,,,86.909
+NOR,McLaren,32.0,0 days 00:01:26.586000,2.0,HARD,14.0,1,True,,,86.586
+NOR,McLaren,33.0,0 days 00:01:26.455000,2.0,HARD,15.0,1,True,,,86.455
+NOR,McLaren,34.0,0 days 00:01:26.366000,2.0,HARD,16.0,1,True,,,86.366
+NOR,McLaren,35.0,0 days 00:01:26.464000,2.0,HARD,17.0,1,True,,,86.464
+NOR,McLaren,36.0,0 days 00:01:27.060000,2.0,HARD,18.0,1,True,,,87.06
+NOR,McLaren,37.0,0 days 00:01:26.595000,2.0,HARD,19.0,1,True,,,86.595
+NOR,McLaren,38.0,0 days 00:01:27.567000,2.0,HARD,20.0,1,True,,,87.567
+NOR,McLaren,39.0,0 days 00:01:26.792000,2.0,HARD,21.0,1,True,,,86.792
+NOR,McLaren,40.0,0 days 00:01:26.761000,2.0,HARD,22.0,1,True,,,86.761
+NOR,McLaren,41.0,0 days 00:01:26.562000,2.0,HARD,23.0,1,True,,,86.562
+NOR,McLaren,42.0,0 days 00:01:26.623000,2.0,HARD,24.0,1,True,,,86.623
+NOR,McLaren,43.0,0 days 00:01:26.810000,2.0,HARD,25.0,1,True,,,86.81
+NOR,McLaren,44.0,0 days 00:01:27.991000,2.0,HARD,26.0,1,True,,,87.991
+NOR,McLaren,45.0,0 days 00:01:27.466000,2.0,HARD,27.0,1,True,,,87.466
+NOR,McLaren,46.0,0 days 00:01:27.017000,2.0,HARD,28.0,1,True,,,87.017
+NOR,McLaren,47.0,0 days 00:01:27.886000,2.0,HARD,29.0,1,True,,,87.886
+NOR,McLaren,48.0,0 days 00:01:26.733000,2.0,HARD,30.0,1,True,,,86.733
+NOR,McLaren,49.0,0 days 00:01:27.661000,2.0,HARD,31.0,1,True,,,87.661
+NOR,McLaren,50.0,0 days 00:01:27.174000,2.0,HARD,32.0,1,True,,,87.174
+NOR,McLaren,51.0,0 days 00:01:27.425000,2.0,HARD,33.0,1,True,,,87.425
+LAW,AlphaTauri,2.0,0 days 00:01:28.018000,1.0,MEDIUM,5.0,1,True,,,88.018
+LAW,AlphaTauri,3.0,0 days 00:01:27.657000,1.0,MEDIUM,6.0,1,True,,,87.657
+LAW,AlphaTauri,4.0,0 days 00:01:27.130000,1.0,MEDIUM,7.0,1,True,,,87.13
+LAW,AlphaTauri,5.0,0 days 00:01:27.205000,1.0,MEDIUM,8.0,1,True,,,87.205
+LAW,AlphaTauri,6.0,0 days 00:01:27.263000,1.0,MEDIUM,9.0,1,True,,,87.263
+LAW,AlphaTauri,7.0,0 days 00:01:27.154000,1.0,MEDIUM,10.0,1,True,,,87.154
+LAW,AlphaTauri,8.0,0 days 00:01:27.331000,1.0,MEDIUM,11.0,1,True,,,87.331
+LAW,AlphaTauri,9.0,0 days 00:01:27.506000,1.0,MEDIUM,12.0,1,True,,,87.506
+LAW,AlphaTauri,10.0,0 days 00:01:27.648000,1.0,MEDIUM,13.0,1,True,,,87.648
+LAW,AlphaTauri,11.0,0 days 00:01:27.892000,1.0,MEDIUM,14.0,1,True,,,87.892
+LAW,AlphaTauri,12.0,0 days 00:01:27.631000,1.0,MEDIUM,15.0,1,True,,,87.631
+LAW,AlphaTauri,15.0,0 days 00:01:27.030000,2.0,HARD,5.0,1,True,,,87.03
+LAW,AlphaTauri,16.0,0 days 00:01:27.412000,2.0,HARD,6.0,1,True,,,87.412
+LAW,AlphaTauri,17.0,0 days 00:01:27.045000,2.0,HARD,7.0,1,True,,,87.045
+LAW,AlphaTauri,18.0,0 days 00:01:26.815000,2.0,HARD,8.0,1,True,,,86.815
+LAW,AlphaTauri,19.0,0 days 00:01:27.047000,2.0,HARD,9.0,1,True,,,87.047
+LAW,AlphaTauri,20.0,0 days 00:01:26.890000,2.0,HARD,10.0,1,True,,,86.89
+LAW,AlphaTauri,21.0,0 days 00:01:27.171000,2.0,HARD,11.0,1,True,,,87.171
+LAW,AlphaTauri,22.0,0 days 00:01:28.059000,2.0,HARD,12.0,1,True,,,88.059
+LAW,AlphaTauri,23.0,0 days 00:01:27.215000,2.0,HARD,13.0,1,True,,,87.215
+LAW,AlphaTauri,24.0,0 days 00:01:27.049000,2.0,HARD,14.0,1,True,,,87.049
+LAW,AlphaTauri,25.0,0 days 00:01:27.204000,2.0,HARD,15.0,1,True,,,87.204
+LAW,AlphaTauri,26.0,0 days 00:01:27.089000,2.0,HARD,16.0,1,True,,,87.089
+LAW,AlphaTauri,27.0,0 days 00:01:27.025000,2.0,HARD,17.0,1,True,,,87.025
+LAW,AlphaTauri,28.0,0 days 00:01:27.376000,2.0,HARD,18.0,1,True,,,87.376
+LAW,AlphaTauri,29.0,0 days 00:01:27.108000,2.0,HARD,19.0,1,True,,,87.108
+LAW,AlphaTauri,30.0,0 days 00:01:27.487000,2.0,HARD,20.0,1,True,,,87.487
+LAW,AlphaTauri,31.0,0 days 00:01:27.515000,2.0,HARD,21.0,1,True,,,87.515
+LAW,AlphaTauri,32.0,0 days 00:01:27.496000,2.0,HARD,22.0,1,True,,,87.496
+LAW,AlphaTauri,35.0,0 days 00:01:26.260000,3.0,MEDIUM,5.0,1,True,,,86.26
+LAW,AlphaTauri,36.0,0 days 00:01:26.384000,3.0,MEDIUM,6.0,1,True,,,86.384
+LAW,AlphaTauri,37.0,0 days 00:01:26.253000,3.0,MEDIUM,7.0,1,True,,,86.253
+LAW,AlphaTauri,38.0,0 days 00:01:26.103000,3.0,MEDIUM,8.0,1,True,,,86.103
+LAW,AlphaTauri,39.0,0 days 00:01:26.245000,3.0,MEDIUM,9.0,1,True,,,86.245
+LAW,AlphaTauri,40.0,0 days 00:01:26.273000,3.0,MEDIUM,10.0,1,True,,,86.273
+LAW,AlphaTauri,41.0,0 days 00:01:26.417000,3.0,MEDIUM,11.0,1,True,,,86.417
+LAW,AlphaTauri,42.0,0 days 00:01:26.121000,3.0,MEDIUM,12.0,1,True,,,86.121
+LAW,AlphaTauri,43.0,0 days 00:01:26.143000,3.0,MEDIUM,13.0,1,True,,,86.143
+LAW,AlphaTauri,44.0,0 days 00:01:25.842000,3.0,MEDIUM,14.0,1,True,,,85.842
+LAW,AlphaTauri,45.0,0 days 00:01:26.134000,3.0,MEDIUM,15.0,1,True,,,86.134
+LAW,AlphaTauri,46.0,0 days 00:01:26.018000,3.0,MEDIUM,16.0,1,True,,,86.018
+LAW,AlphaTauri,47.0,0 days 00:01:26.656000,3.0,MEDIUM,17.0,1,True,,,86.656
+LAW,AlphaTauri,48.0,0 days 00:01:26.098000,3.0,MEDIUM,18.0,1,True,,,86.098
+LAW,AlphaTauri,49.0,0 days 00:01:27.235000,3.0,MEDIUM,19.0,1,True,,,87.235
+LAW,AlphaTauri,50.0,0 days 00:01:26.436000,3.0,MEDIUM,20.0,1,True,,,86.436
+HAM,Mercedes,2.0,0 days 00:01:27.837000,1.0,HARD,5.0,1,True,,,87.837
+HAM,Mercedes,3.0,0 days 00:01:27.289000,1.0,HARD,6.0,1,True,,,87.289
+HAM,Mercedes,4.0,0 days 00:01:27.233000,1.0,HARD,7.0,1,True,,,87.233
+HAM,Mercedes,5.0,0 days 00:01:27.015000,1.0,HARD,8.0,1,True,,,87.015
+HAM,Mercedes,6.0,0 days 00:01:26.711000,1.0,HARD,9.0,1,True,,,86.711
+HAM,Mercedes,7.0,0 days 00:01:26.700000,1.0,HARD,10.0,1,True,,,86.7
+HAM,Mercedes,8.0,0 days 00:01:26.643000,1.0,HARD,11.0,1,True,,,86.643
+HAM,Mercedes,9.0,0 days 00:01:26.756000,1.0,HARD,12.0,1,True,,,86.756
+HAM,Mercedes,10.0,0 days 00:01:26.995000,1.0,HARD,13.0,1,True,,,86.995
+HAM,Mercedes,11.0,0 days 00:01:27.119000,1.0,HARD,14.0,1,True,,,87.119
+HAM,Mercedes,12.0,0 days 00:01:27.194000,1.0,HARD,15.0,1,True,,,87.194
+HAM,Mercedes,13.0,0 days 00:01:27.292000,1.0,HARD,16.0,1,True,,,87.292
+HAM,Mercedes,14.0,0 days 00:01:27.526000,1.0,HARD,17.0,1,True,,,87.526
+HAM,Mercedes,15.0,0 days 00:01:28.085000,1.0,HARD,18.0,1,True,,,88.085
+HAM,Mercedes,16.0,0 days 00:01:27.240000,1.0,HARD,19.0,1,True,,,87.24
+HAM,Mercedes,17.0,0 days 00:01:27.585000,1.0,HARD,20.0,1,True,,,87.585
+HAM,Mercedes,18.0,0 days 00:01:27.279000,1.0,HARD,21.0,1,True,,,87.279
+HAM,Mercedes,19.0,0 days 00:01:27.449000,1.0,HARD,22.0,1,True,,,87.449
+HAM,Mercedes,20.0,0 days 00:01:27.830000,1.0,HARD,23.0,1,True,,,87.83
+HAM,Mercedes,21.0,0 days 00:01:27.399000,1.0,HARD,24.0,1,True,,,87.399
+HAM,Mercedes,22.0,0 days 00:01:27.154000,1.0,HARD,25.0,1,True,,,87.154
+HAM,Mercedes,23.0,0 days 00:01:27.267000,1.0,HARD,26.0,1,True,,,87.267
+HAM,Mercedes,24.0,0 days 00:01:27.311000,1.0,HARD,27.0,1,True,,,87.311
+HAM,Mercedes,25.0,0 days 00:01:27.791000,1.0,HARD,28.0,1,True,,,87.791
+HAM,Mercedes,26.0,0 days 00:01:27.407000,1.0,HARD,29.0,1,True,,,87.407
+HAM,Mercedes,29.0,0 days 00:01:25.582000,2.0,MEDIUM,2.0,1,True,,,85.582
+HAM,Mercedes,30.0,0 days 00:01:26.340000,2.0,MEDIUM,3.0,1,True,,,86.34
+HAM,Mercedes,31.0,0 days 00:01:26.404000,2.0,MEDIUM,4.0,1,True,,,86.404
+HAM,Mercedes,32.0,0 days 00:01:26.620000,2.0,MEDIUM,5.0,1,True,,,86.62
+HAM,Mercedes,33.0,0 days 00:01:26.584000,2.0,MEDIUM,6.0,1,True,,,86.584
+HAM,Mercedes,34.0,0 days 00:01:26.236000,2.0,MEDIUM,7.0,1,True,,,86.236
+HAM,Mercedes,35.0,0 days 00:01:26.016000,2.0,MEDIUM,8.0,1,True,,,86.016
+HAM,Mercedes,36.0,0 days 00:01:26.205000,2.0,MEDIUM,9.0,1,True,,,86.205
+HAM,Mercedes,37.0,0 days 00:01:25.999000,2.0,MEDIUM,10.0,1,True,,,85.999
+HAM,Mercedes,38.0,0 days 00:01:26.274000,2.0,MEDIUM,11.0,1,True,,,86.274
+HAM,Mercedes,39.0,0 days 00:01:26.249000,2.0,MEDIUM,12.0,1,True,,,86.249
+HAM,Mercedes,40.0,0 days 00:01:26.658000,2.0,MEDIUM,13.0,1,True,,,86.658
+HAM,Mercedes,41.0,0 days 00:01:27.501000,2.0,MEDIUM,14.0,1,True,,,87.501
+HAM,Mercedes,42.0,0 days 00:01:26.216000,2.0,MEDIUM,15.0,1,True,,,86.216
+HAM,Mercedes,43.0,0 days 00:01:26.093000,2.0,MEDIUM,16.0,1,True,,,86.093
+HAM,Mercedes,44.0,0 days 00:01:27.152000,2.0,MEDIUM,17.0,1,True,,,87.152
+HAM,Mercedes,45.0,0 days 00:01:26.333000,2.0,MEDIUM,18.0,1,True,,,86.333
+HAM,Mercedes,46.0,0 days 00:01:27.193000,2.0,MEDIUM,19.0,1,True,,,87.193
+HAM,Mercedes,47.0,0 days 00:01:26.120000,2.0,MEDIUM,20.0,1,True,,,86.12
+HAM,Mercedes,48.0,0 days 00:01:25.815000,2.0,MEDIUM,21.0,1,True,,,85.815
+HAM,Mercedes,49.0,0 days 00:01:25.888000,2.0,MEDIUM,22.0,1,True,,,85.888
+HAM,Mercedes,50.0,0 days 00:01:25.927000,2.0,MEDIUM,23.0,1,True,,,85.927
+HAM,Mercedes,51.0,0 days 00:01:26.093000,2.0,MEDIUM,24.0,1,True,,,86.093
+SAI,Ferrari,2.0,0 days 00:01:26.006000,1.0,MEDIUM,2.0,1,True,,,86.006
+SAI,Ferrari,3.0,0 days 00:01:25.976000,1.0,MEDIUM,3.0,1,True,,,85.976
+SAI,Ferrari,4.0,0 days 00:01:26.067000,1.0,MEDIUM,4.0,1,True,,,86.067
+SAI,Ferrari,5.0,0 days 00:01:26.423000,1.0,MEDIUM,5.0,1,True,,,86.423
+SAI,Ferrari,6.0,0 days 00:01:26.615000,1.0,MEDIUM,6.0,1,True,,,86.615
+SAI,Ferrari,7.0,0 days 00:01:26.358000,1.0,MEDIUM,7.0,1,True,,,86.358
+SAI,Ferrari,8.0,0 days 00:01:26.224000,1.0,MEDIUM,8.0,1,True,,,86.224
+SAI,Ferrari,9.0,0 days 00:01:26.476000,1.0,MEDIUM,9.0,1,True,,,86.476
+SAI,Ferrari,10.0,0 days 00:01:26.511000,1.0,MEDIUM,10.0,1,True,,,86.511
+SAI,Ferrari,11.0,0 days 00:01:26.691000,1.0,MEDIUM,11.0,1,True,,,86.691
+SAI,Ferrari,12.0,0 days 00:01:26.408000,1.0,MEDIUM,12.0,1,True,,,86.408
+SAI,Ferrari,13.0,0 days 00:01:26.887000,1.0,MEDIUM,13.0,1,True,,,86.887
+SAI,Ferrari,14.0,0 days 00:01:26.972000,1.0,MEDIUM,14.0,1,True,,,86.972
+SAI,Ferrari,15.0,0 days 00:01:28.219000,1.0,MEDIUM,15.0,1,True,,,88.219
+SAI,Ferrari,16.0,0 days 00:01:27.323000,1.0,MEDIUM,16.0,1,True,,,87.323
+SAI,Ferrari,17.0,0 days 00:01:27.721000,1.0,MEDIUM,17.0,1,True,,,87.721
+SAI,Ferrari,18.0,0 days 00:01:27.512000,1.0,MEDIUM,18.0,1,True,,,87.512
+SAI,Ferrari,21.0,0 days 00:01:26.146000,2.0,HARD,2.0,1,True,,,86.146
+SAI,Ferrari,22.0,0 days 00:01:25.558000,2.0,HARD,3.0,1,True,,,85.558
+SAI,Ferrari,23.0,0 days 00:01:25.793000,2.0,HARD,4.0,1,True,,,85.793
+SAI,Ferrari,24.0,0 days 00:01:25.902000,2.0,HARD,5.0,1,True,,,85.902
+SAI,Ferrari,25.0,0 days 00:01:26.005000,2.0,HARD,6.0,1,True,,,86.005
+SAI,Ferrari,26.0,0 days 00:01:25.836000,2.0,HARD,7.0,1,True,,,85.836
+SAI,Ferrari,27.0,0 days 00:01:26.165000,2.0,HARD,8.0,1,True,,,86.165
+SAI,Ferrari,28.0,0 days 00:01:25.770000,2.0,HARD,9.0,1,True,,,85.77
+SAI,Ferrari,29.0,0 days 00:01:25.720000,2.0,HARD,10.0,1,True,,,85.72
+SAI,Ferrari,30.0,0 days 00:01:25.501000,2.0,HARD,11.0,1,True,,,85.501
+SAI,Ferrari,31.0,0 days 00:01:25.718000,2.0,HARD,12.0,1,True,,,85.718
+SAI,Ferrari,32.0,0 days 00:01:25.896000,2.0,HARD,13.0,1,True,,,85.896
+SAI,Ferrari,33.0,0 days 00:01:25.926000,2.0,HARD,14.0,1,True,,,85.926
+SAI,Ferrari,34.0,0 days 00:01:26.126000,2.0,HARD,15.0,1,True,,,86.126
+SAI,Ferrari,35.0,0 days 00:01:25.789000,2.0,HARD,16.0,1,True,,,85.789
+SAI,Ferrari,36.0,0 days 00:01:26.011000,2.0,HARD,17.0,1,True,,,86.011
+SAI,Ferrari,37.0,0 days 00:01:25.886000,2.0,HARD,18.0,1,True,,,85.886
+SAI,Ferrari,38.0,0 days 00:01:25.705000,2.0,HARD,19.0,1,True,,,85.705
+SAI,Ferrari,39.0,0 days 00:01:25.924000,2.0,HARD,20.0,1,True,,,85.924
+SAI,Ferrari,40.0,0 days 00:01:26.122000,2.0,HARD,21.0,1,True,,,86.122
+SAI,Ferrari,41.0,0 days 00:01:26.738000,2.0,HARD,22.0,1,True,,,86.738
+SAI,Ferrari,42.0,0 days 00:01:26.479000,2.0,HARD,23.0,1,True,,,86.479
+SAI,Ferrari,43.0,0 days 00:01:26.589000,2.0,HARD,24.0,1,True,,,86.589
+SAI,Ferrari,44.0,0 days 00:01:26.430000,2.0,HARD,25.0,1,True,,,86.43
+SAI,Ferrari,45.0,0 days 00:01:26.632000,2.0,HARD,26.0,1,True,,,86.632
+SAI,Ferrari,46.0,0 days 00:01:27.303000,2.0,HARD,27.0,1,True,,,87.303
+SAI,Ferrari,47.0,0 days 00:01:27.096000,2.0,HARD,28.0,1,True,,,87.096
+SAI,Ferrari,48.0,0 days 00:01:26.800000,2.0,HARD,29.0,1,True,,,86.8
+SAI,Ferrari,49.0,0 days 00:01:26.770000,2.0,HARD,30.0,1,True,,,86.77
+SAI,Ferrari,50.0,0 days 00:01:26.776000,2.0,HARD,31.0,1,True,,,86.776
+SAI,Ferrari,51.0,0 days 00:01:27.044000,2.0,HARD,32.0,1,True,,,87.044
+RUS,Mercedes,2.0,0 days 00:01:26.686000,1.0,MEDIUM,2.0,1,True,,,86.686
+RUS,Mercedes,3.0,0 days 00:01:26.176000,1.0,MEDIUM,3.0,1,True,,,86.176
+RUS,Mercedes,4.0,0 days 00:01:26.178000,1.0,MEDIUM,4.0,1,True,,,86.178
+RUS,Mercedes,5.0,0 days 00:01:26.249000,1.0,MEDIUM,5.0,1,True,,,86.249
+RUS,Mercedes,6.0,0 days 00:01:26.515000,1.0,MEDIUM,6.0,1,True,,,86.515
+RUS,Mercedes,7.0,0 days 00:01:26.515000,1.0,MEDIUM,7.0,1,True,,,86.515
+RUS,Mercedes,8.0,0 days 00:01:26.594000,1.0,MEDIUM,8.0,1,True,,,86.594
+RUS,Mercedes,9.0,0 days 00:01:26.710000,1.0,MEDIUM,9.0,1,True,,,86.71
+RUS,Mercedes,10.0,0 days 00:01:26.655000,1.0,MEDIUM,10.0,1,True,,,86.655
+RUS,Mercedes,11.0,0 days 00:01:27.186000,1.0,MEDIUM,11.0,1,True,,,87.186
+RUS,Mercedes,12.0,0 days 00:01:27.044000,1.0,MEDIUM,12.0,1,True,,,87.044
+RUS,Mercedes,13.0,0 days 00:01:26.962000,1.0,MEDIUM,13.0,1,True,,,86.962
+RUS,Mercedes,14.0,0 days 00:01:27.285000,1.0,MEDIUM,14.0,1,True,,,87.285
+RUS,Mercedes,15.0,0 days 00:01:27.005000,1.0,MEDIUM,15.0,1,True,,,87.005
+RUS,Mercedes,16.0,0 days 00:01:27.976000,1.0,MEDIUM,16.0,1,True,,,87.976
+RUS,Mercedes,17.0,0 days 00:01:27.055000,1.0,MEDIUM,17.0,1,True,,,87.055
+RUS,Mercedes,18.0,0 days 00:01:27.383000,1.0,MEDIUM,18.0,1,True,,,87.383
+RUS,Mercedes,21.0,0 days 00:01:26.456000,2.0,HARD,5.0,1,True,,,86.456
+RUS,Mercedes,22.0,0 days 00:01:26.715000,2.0,HARD,6.0,1,True,,,86.715
+RUS,Mercedes,23.0,0 days 00:01:26.605000,2.0,HARD,7.0,1,True,,,86.605
+RUS,Mercedes,24.0,0 days 00:01:26.671000,2.0,HARD,8.0,1,True,,,86.671
+RUS,Mercedes,25.0,0 days 00:01:26.320000,2.0,HARD,9.0,1,True,,,86.32
+RUS,Mercedes,26.0,0 days 00:01:26.410000,2.0,HARD,10.0,1,True,,,86.41
+RUS,Mercedes,27.0,0 days 00:01:26.184000,2.0,HARD,11.0,1,True,,,86.184
+RUS,Mercedes,28.0,0 days 00:01:26.284000,2.0,HARD,12.0,1,True,,,86.284
+RUS,Mercedes,29.0,0 days 00:01:26.140000,2.0,HARD,13.0,1,True,,,86.14
+RUS,Mercedes,30.0,0 days 00:01:25.966000,2.0,HARD,14.0,1,True,,,85.966
+RUS,Mercedes,31.0,0 days 00:01:26.148000,2.0,HARD,15.0,1,True,,,86.148
+RUS,Mercedes,32.0,0 days 00:01:26.059000,2.0,HARD,16.0,1,True,,,86.059
+RUS,Mercedes,33.0,0 days 00:01:26.161000,2.0,HARD,17.0,1,True,,,86.161
+RUS,Mercedes,34.0,0 days 00:01:26.119000,2.0,HARD,18.0,1,True,,,86.119
+RUS,Mercedes,35.0,0 days 00:01:26.189000,2.0,HARD,19.0,1,True,,,86.189
+RUS,Mercedes,36.0,0 days 00:01:26.371000,2.0,HARD,20.0,1,True,,,86.371
+RUS,Mercedes,37.0,0 days 00:01:25.997000,2.0,HARD,21.0,1,True,,,85.997
+RUS,Mercedes,38.0,0 days 00:01:25.847000,2.0,HARD,22.0,1,True,,,85.847
+RUS,Mercedes,39.0,0 days 00:01:26.210000,2.0,HARD,23.0,1,True,,,86.21
+RUS,Mercedes,40.0,0 days 00:01:26.244000,2.0,HARD,24.0,1,True,,,86.244
+RUS,Mercedes,41.0,0 days 00:01:26.614000,2.0,HARD,25.0,1,True,,,86.614
+RUS,Mercedes,42.0,0 days 00:01:26.335000,2.0,HARD,26.0,1,True,,,86.335
+RUS,Mercedes,43.0,0 days 00:01:26.426000,2.0,HARD,27.0,1,True,,,86.426
+RUS,Mercedes,44.0,0 days 00:01:26.336000,2.0,HARD,28.0,1,True,,,86.336
+RUS,Mercedes,45.0,0 days 00:01:26.394000,2.0,HARD,29.0,1,True,,,86.394
+RUS,Mercedes,46.0,0 days 00:01:26.458000,2.0,HARD,30.0,1,True,,,86.458
+RUS,Mercedes,47.0,0 days 00:01:26.640000,2.0,HARD,31.0,1,True,,,86.64
+RUS,Mercedes,48.0,0 days 00:01:26.287000,2.0,HARD,32.0,1,True,,,86.287
+RUS,Mercedes,49.0,0 days 00:01:26.375000,2.0,HARD,33.0,1,True,,,86.375
+RUS,Mercedes,50.0,0 days 00:01:26.874000,2.0,HARD,34.0,1,True,,,86.874
+RUS,Mercedes,51.0,0 days 00:01:26.628000,2.0,HARD,35.0,1,True,,,86.628
+BOT,Alfa Romeo,2.0,0 days 00:01:28.032000,1.0,HARD,5.0,1,True,,,88.032
+BOT,Alfa Romeo,3.0,0 days 00:01:27.950000,1.0,HARD,6.0,1,True,,,87.95
+BOT,Alfa Romeo,4.0,0 days 00:01:27.119000,1.0,HARD,7.0,1,True,,,87.119
+BOT,Alfa Romeo,5.0,0 days 00:01:27.575000,1.0,HARD,8.0,1,True,,,87.575
+BOT,Alfa Romeo,6.0,0 days 00:01:27.150000,1.0,HARD,9.0,1,True,,,87.15
+BOT,Alfa Romeo,7.0,0 days 00:01:27.360000,1.0,HARD,10.0,1,True,,,87.36
+BOT,Alfa Romeo,8.0,0 days 00:01:27.227000,1.0,HARD,11.0,1,True,,,87.227
+BOT,Alfa Romeo,9.0,0 days 00:01:27.265000,1.0,HARD,12.0,1,True,,,87.265
+BOT,Alfa Romeo,10.0,0 days 00:01:27.863000,1.0,HARD,13.0,1,True,,,87.863
+BOT,Alfa Romeo,11.0,0 days 00:01:27.693000,1.0,HARD,14.0,1,True,,,87.693
+BOT,Alfa Romeo,12.0,0 days 00:01:28.716000,1.0,HARD,15.0,1,True,,,88.716
+BOT,Alfa Romeo,13.0,0 days 00:01:28.007000,1.0,HARD,16.0,1,True,,,88.007
+BOT,Alfa Romeo,14.0,0 days 00:01:27.991000,1.0,HARD,17.0,1,True,,,87.991
+BOT,Alfa Romeo,15.0,0 days 00:01:27.427000,1.0,HARD,18.0,1,True,,,87.427
+BOT,Alfa Romeo,16.0,0 days 00:01:27.824000,1.0,HARD,19.0,1,True,,,87.824
+BOT,Alfa Romeo,17.0,0 days 00:01:27.470000,1.0,HARD,20.0,1,True,,,87.47
+BOT,Alfa Romeo,18.0,0 days 00:01:27.634000,1.0,HARD,21.0,1,True,,,87.634
+BOT,Alfa Romeo,19.0,0 days 00:01:27.725000,1.0,HARD,22.0,1,True,,,87.725
+BOT,Alfa Romeo,20.0,0 days 00:01:28.438000,1.0,HARD,23.0,1,True,,,88.438
+BOT,Alfa Romeo,21.0,0 days 00:01:29.044000,1.0,HARD,24.0,1,True,,,89.044
+BOT,Alfa Romeo,22.0,0 days 00:01:28.116000,1.0,HARD,25.0,1,True,,,88.116
+BOT,Alfa Romeo,23.0,0 days 00:01:28.123000,1.0,HARD,26.0,1,True,,,88.123
+BOT,Alfa Romeo,24.0,0 days 00:01:28.022000,1.0,HARD,27.0,1,True,,,88.022
+BOT,Alfa Romeo,27.0,0 days 00:01:25.988000,2.0,MEDIUM,5.0,1,True,,,85.988
+BOT,Alfa Romeo,28.0,0 days 00:01:26.486000,2.0,MEDIUM,6.0,1,True,,,86.486
+BOT,Alfa Romeo,29.0,0 days 00:01:26.201000,2.0,MEDIUM,7.0,1,True,,,86.201
+BOT,Alfa Romeo,30.0,0 days 00:01:26.643000,2.0,MEDIUM,8.0,1,True,,,86.643
+BOT,Alfa Romeo,31.0,0 days 00:01:26.648000,2.0,MEDIUM,9.0,1,True,,,86.648
+BOT,Alfa Romeo,32.0,0 days 00:01:26.606000,2.0,MEDIUM,10.0,1,True,,,86.606
+BOT,Alfa Romeo,33.0,0 days 00:01:26.873000,2.0,MEDIUM,11.0,1,True,,,86.873
+BOT,Alfa Romeo,34.0,0 days 00:01:26.621000,2.0,MEDIUM,12.0,1,True,,,86.621
+BOT,Alfa Romeo,35.0,0 days 00:01:26.523000,2.0,MEDIUM,13.0,1,True,,,86.523
+BOT,Alfa Romeo,36.0,0 days 00:01:26.782000,2.0,MEDIUM,14.0,1,True,,,86.782
+BOT,Alfa Romeo,37.0,0 days 00:01:26.545000,2.0,MEDIUM,15.0,1,True,,,86.545
+BOT,Alfa Romeo,38.0,0 days 00:01:27.093000,2.0,MEDIUM,16.0,1,True,,,87.093
+BOT,Alfa Romeo,39.0,0 days 00:01:26.981000,2.0,MEDIUM,17.0,1,True,,,86.981
+BOT,Alfa Romeo,40.0,0 days 00:01:27.862000,2.0,MEDIUM,18.0,1,True,,,87.862
+BOT,Alfa Romeo,41.0,0 days 00:01:27.203000,2.0,MEDIUM,19.0,1,True,,,87.203
+BOT,Alfa Romeo,42.0,0 days 00:01:26.864000,2.0,MEDIUM,20.0,1,True,,,86.864
+BOT,Alfa Romeo,43.0,0 days 00:01:27.753000,2.0,MEDIUM,21.0,1,True,,,87.753
+BOT,Alfa Romeo,44.0,0 days 00:01:26.962000,2.0,MEDIUM,22.0,1,True,,,86.962
+BOT,Alfa Romeo,45.0,0 days 00:01:26.889000,2.0,MEDIUM,23.0,1,True,,,86.889
+BOT,Alfa Romeo,46.0,0 days 00:01:26.806000,2.0,MEDIUM,24.0,1,True,,,86.806
+BOT,Alfa Romeo,47.0,0 days 00:01:26.736000,2.0,MEDIUM,25.0,1,True,,,86.736
+BOT,Alfa Romeo,48.0,0 days 00:01:27.005000,2.0,MEDIUM,26.0,1,True,,,87.005
+BOT,Alfa Romeo,49.0,0 days 00:01:27.134000,2.0,MEDIUM,27.0,1,True,,,87.134
+BOT,Alfa Romeo,50.0,0 days 00:01:26.950000,2.0,MEDIUM,28.0,1,True,,,86.95
+PIA,McLaren,2.0,0 days 00:01:28.053000,1.0,MEDIUM,2.0,1,True,,,88.053
+PIA,McLaren,3.0,0 days 00:01:26.982000,1.0,MEDIUM,3.0,1,True,,,86.982
+PIA,McLaren,4.0,0 days 00:01:27.004000,1.0,MEDIUM,4.0,1,True,,,87.004
+PIA,McLaren,5.0,0 days 00:01:26.909000,1.0,MEDIUM,5.0,1,True,,,86.909
+PIA,McLaren,6.0,0 days 00:01:26.878000,1.0,MEDIUM,6.0,1,True,,,86.878
+PIA,McLaren,7.0,0 days 00:01:26.940000,1.0,MEDIUM,7.0,1,True,,,86.94
+PIA,McLaren,8.0,0 days 00:01:26.850000,1.0,MEDIUM,8.0,1,True,,,86.85
+PIA,McLaren,9.0,0 days 00:01:26.864000,1.0,MEDIUM,9.0,1,True,,,86.864
+PIA,McLaren,10.0,0 days 00:01:26.823000,1.0,MEDIUM,10.0,1,True,,,86.823
+PIA,McLaren,11.0,0 days 00:01:27.217000,1.0,MEDIUM,11.0,1,True,,,87.217
+PIA,McLaren,12.0,0 days 00:01:27.454000,1.0,MEDIUM,12.0,1,True,,,87.454
+PIA,McLaren,13.0,0 days 00:01:27.518000,1.0,MEDIUM,13.0,1,True,,,87.518
+PIA,McLaren,14.0,0 days 00:01:27.371000,1.0,MEDIUM,14.0,1,True,,,87.371
+PIA,McLaren,15.0,0 days 00:01:27.738000,1.0,MEDIUM,15.0,1,True,,,87.738
+PIA,McLaren,16.0,0 days 00:01:27.201000,1.0,MEDIUM,16.0,1,True,,,87.201
+PIA,McLaren,17.0,0 days 00:01:27.440000,1.0,MEDIUM,17.0,1,True,,,87.44
+PIA,McLaren,18.0,0 days 00:01:27.398000,1.0,MEDIUM,18.0,1,True,,,87.398
+PIA,McLaren,19.0,0 days 00:01:27.352000,1.0,MEDIUM,19.0,1,True,,,87.352
+PIA,McLaren,20.0,0 days 00:01:27.746000,1.0,MEDIUM,20.0,1,True,,,87.746
+PIA,McLaren,21.0,0 days 00:01:27.587000,1.0,MEDIUM,21.0,1,True,,,87.587
+PIA,McLaren,22.0,0 days 00:01:27.419000,1.0,MEDIUM,22.0,1,True,,,87.419
+PIA,McLaren,25.0,0 days 00:01:26.411000,2.0,HARD,7.0,1,True,,,86.411
+PIA,McLaren,26.0,0 days 00:01:26.287000,2.0,HARD,8.0,1,True,,,86.287
+PIA,McLaren,27.0,0 days 00:01:26.248000,2.0,HARD,9.0,1,True,,,86.248
+PIA,McLaren,28.0,0 days 00:01:26.611000,2.0,HARD,10.0,1,True,,,86.611
+PIA,McLaren,29.0,0 days 00:01:26.132000,2.0,HARD,11.0,1,True,,,86.132
+PIA,McLaren,30.0,0 days 00:01:27.074000,2.0,HARD,12.0,1,True,,,87.074
+PIA,McLaren,31.0,0 days 00:01:26.860000,2.0,HARD,13.0,1,True,,,86.86
+PIA,McLaren,32.0,0 days 00:01:26.746000,2.0,HARD,14.0,1,True,,,86.746
+PIA,McLaren,33.0,0 days 00:01:26.445000,2.0,HARD,15.0,1,True,,,86.445
+PIA,McLaren,34.0,0 days 00:01:26.717000,2.0,HARD,16.0,1,True,,,86.717
+PIA,McLaren,35.0,0 days 00:01:26.277000,2.0,HARD,17.0,1,True,,,86.277
+PIA,McLaren,36.0,0 days 00:01:26.639000,2.0,HARD,18.0,1,True,,,86.639
+PIA,McLaren,37.0,0 days 00:01:26.806000,2.0,HARD,19.0,1,True,,,86.806
+PIA,McLaren,38.0,0 days 00:01:27.146000,2.0,HARD,20.0,1,True,,,87.146
+PIA,McLaren,39.0,0 days 00:01:27.166000,2.0,HARD,21.0,1,True,,,87.166
+PIA,McLaren,40.0,0 days 00:01:26.853000,2.0,HARD,22.0,1,True,,,86.853
+PIA,McLaren,43.0,0 days 00:01:25.072000,3.0,MEDIUM,5.0,1,True,,,85.072
+PIA,McLaren,44.0,0 days 00:01:25.690000,3.0,MEDIUM,6.0,1,True,,,85.69
+PIA,McLaren,45.0,0 days 00:01:26.139000,3.0,MEDIUM,7.0,1,True,,,86.139
+PIA,McLaren,46.0,0 days 00:01:25.732000,3.0,MEDIUM,8.0,1,True,,,85.732
+PIA,McLaren,47.0,0 days 00:01:26.614000,3.0,MEDIUM,9.0,1,True,,,86.614
+PIA,McLaren,48.0,0 days 00:01:26.067000,3.0,MEDIUM,10.0,1,True,,,86.067
+PIA,McLaren,49.0,0 days 00:01:25.841000,3.0,MEDIUM,11.0,1,True,,,85.841
+PIA,McLaren,50.0,0 days 00:01:25.593000,3.0,MEDIUM,12.0,1,True,,,85.593

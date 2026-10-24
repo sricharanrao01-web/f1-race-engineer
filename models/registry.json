@@ -1,0 +1,90 @@
+{
+  "current_version": 4,
+  "versions": [
+    {
+      "version": 0,
+      "file": "models/model_v0.joblib",
+      "created": "2026-10-24T20:30:47",
+      "trained_on_races": [
+        "2021 Bahrain"
+      ],
+      "training_rows": 831,
+      "n_estimators": 200,
+      "validation_mae": 4.824666105633796,
+      "status": "INITIAL",
+      "triggered_by": "initial training"
+    },
+    {
+      "version": 1,
+      "file": "models/model_v1.joblib",
+      "created": "2026-10-24T20:30:49",
+      "trained_on_races": [
+        "2021 Bahrain",
+        "2021 Monza"
+      ],
+      "training_rows": 1524,
+      "n_estimators": 200,
+      "validation_mae": 2.5235297816901294,
+      "status": "PROMOTED",
+      "triggered_by": "2021 Monza"
+    },
+    {
+      "version": 2,
+      "file": "models/model_v2.joblib",
+      "created": "2026-10-24T20:30:51",
+      "trained_on_races": [
+        "2021 Bahrain",
+        "2021 Monza",
+        "2021 Silverstone",
+        "2022 Bahrain"
+      ],
+      "training_rows": 3209,
+      "n_estimators": 200,
+      "validation_mae": 2.736192246478888,
+      "status": "REJECTED",
+      "triggered_by": "2022 Bahrain"
+    },
+    {
+      "version": 3,
+      "file": "models/model_v3.joblib",
+      "created": "2026-10-24T20:30:55",
+      "trained_on_races": [
+        "2021 Bahrain",
+        "2021 Monza",
+        "2021 Silverstone",
+        "2022 Bahrain",
+        "2022 Monza",
+        "2022 Silverstone",
+        "2023 Bahrain"
+      ],
+      "training_rows": 5487,
+      "n_estimators": 200,
+      "validation_mae": 2.8363919507042157,
+      "status": "REJECTED",
+      "triggered_by": "2023 Bahrain"
+    },
+    {
+      "version": 4,
+      "file": "models/model_v4.joblib",
+      "created": "2026-10-24T20:31:03",
+      "trained_on_races": [
+        "2021 Bahrain",
+        "2021 Monza",
+        "2021 Silverstone",
+        "2022 Bahrain",
+        "2022 Monza",
+        "2022 Silverstone",
+        "2023 Bahrain",
+        "2023 Monza",
+        "2023 Silverstone",
+        "2024 Bahrain",
+        "2024 Monza"
+      ],
+      "training_rows": 9100,
+      "n_estimators": 200,
+      "validation_mae": 2.4184247957746585,
+      "status": "PROMOTED",
+      "triggered_by": "2024 Monza"
+    }
+  ]
+}
